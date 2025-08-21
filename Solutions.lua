@@ -1,4 +1,4 @@
-local allowedUsers = {
+ allowedUsers = {
     -- 👑 Criador
     ["hdhfhfxjbx"] = true, -- Criador
 
