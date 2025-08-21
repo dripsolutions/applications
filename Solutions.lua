@@ -29,6 +29,7 @@ local allowedUsers = {
     ["jjkoid6353"] = true, -- até 22 de agosto de 2025
     ["euamoovowviw"] = true, -- até 25 de agosto
     ["shadow83953"] = true, -- até 2 de setembro
+    ["bxbhcrbyf"] = true, -- até 30 de agosto
 
     -- ✅ Permanentes
     ["llenado123456"] = true,
