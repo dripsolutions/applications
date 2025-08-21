@@ -43,6 +43,7 @@ local allowedUsers = {
     ["AOEX_FH"] = true,
     ["contasegudariadesv"] = true,
     ["zoro_fenix42"] = true,
+    ["pozella999"] = true,
     ["nikz68"] = true,
     ["kayro20112p"] = true,
     ["emanifesto6q"] = true,
