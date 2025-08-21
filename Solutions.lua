@@ -1,40 +1,52 @@
-   ["joao_6490"] = true, --staff
-   ["Brucho_Caveira"] = true, --staff
-   ["MiguelReiDelas018"] = true, --staff
-   ["joaozinw11"] = true, --Staff
-   ["THEKINGDARKSIDER"] = true, --Staff
-   ["sr_anjo338"] = true, --Staff
-   ["eubatinumavelha"] = true, --Staff
-   ["hdhfhfxjbx"] = true, --👑 Criador
-   ["CUZCUZ12900"] = true, --até 21 de agosto
-   ["panderercc"] = true, --1 semana
-   ["renanqkkd35"] = true, --4 dias (ate 21 Agosto)
-   ["viros_45ks"] = true, --Uma Semana(ate 23 Agosto)
-   ["lucas02sjsj"] = true, --1 mês
-   ["cleitinho_adm"] = true, --1 mês
-   ["Aloysioerick"] = true, --2 meses
-   ["carlsinhadaquebrada"] = true, --1 semana
-   ["Miguel_kiwi777"] = true, --2 meses
-   ["MolChops2013"] = true, --1 semana
-   ["lindobrs1"] = true, --1 semana
-   ["joao96874"] = true, --1 semana
-   ["llenado123456"] = true, --✅ Permanente
-   ["smulem_01"] = true, --✅ Permanente
-   ["Pedrocamandrake391"] = true, --✅ Permanente
-   ["KIRA7KILLAS"] = true, --✅ Permanente
-   ["daviricardo25022"] = true, --✅ Permanente
-   ["Salazar123xxx2"] = true, --✅ Permanente
-   ["errorpro1d"] = true, --✅ Permanente
-   ["AOEX_FH"] = true, --✅ Permanente
-   ["contasegudariadesv"] = true, --✅ Permanente
-   ["zoro_fenix42"] = true, --✅ Permanente
-   ["nikz68"] = true, --✅ Permanente
-   ["kayro20112p"] = true, --✅ Permanente
-   ["emanifesto6q"] = true, --✅ Permanente
-   ["Lolyta6662"] = true, --✅ Permanente
-   ["Migxzz15"] = true, --✅ Permanente
-   ["Soy_morenin1329"] = true, --2 de setembro
-   ["schoollol123451"] = true, --23 de agosto
-   ["jjkoid6353"] = true, --22 de agosto de 2025
-   ["euamoovowviw"] = true, --até 25 agosto
-   ["shadow83953"] = true, --2 setembro
+local allowedUsers = {
+    -- 👑 Criador
+    ["hdhfhfxjbx"] = true, -- Criador
+
+    -- 🛠️ Staff
+    ["joao_6490"] = true,
+    ["Brucho_Caveira"] = true,
+    ["MiguelReiDelas018"] = true,
+    ["joaozinw11"] = true,
+    ["THEKINGDARKSIDER"] = true,
+    ["sr_anjo338"] = true,
+    ["eubatinumavelha"] = true,
+
+    -- 🎟️ Temporários
+    ["CUZCUZ12900"] = true, -- até 21 de agosto
+    ["renanqkkd35"] = true, -- 4 dias (até 21 Agosto)
+    ["viros_45ks"] = true, -- 1 semana (até 23 Agosto)
+    ["carlsinhadaquebrada"] = true, -- 1 semana
+    ["MolChops2013"] = true, -- 1 semana
+    ["lindobrs1"] = true, -- 1 semana
+    ["joao96874"] = true, -- 1 semana
+    ["panderercc"] = true, -- 1 semana
+    ["lucas02sjsj"] = true, -- 1 mês
+    ["cleitinho_adm"] = true, -- 1 mês
+    ["Aloysioerick"] = true, -- 2 meses
+    ["Miguel_kiwi777"] = true, -- 2 meses
+    ["Soy_morenin1329"] = true, -- até 2 de setembro
+    ["schoollol123451"] = true, -- até 23 de agosto
+    ["jjkoid6353"] = true, -- até 22 de agosto de 2025
+    ["euamoovowviw"] = true, -- até 25 de agosto
+    ["shadow83953"] = true, -- até 2 de setembro
+
+    -- ✅ Permanentes
+    ["llenado123456"] = true,
+    ["smulem_01"] = true,
+    ["Pedrocamandrake391"] = true,
+    ["KIRA7KILLAS"] = true,
+    ["daviricardo25022"] = true,
+    ["Salazar123xxx2"] = true,
+    ["errorpro1d"] = true,
+    ["AOEX_FH"] = true,
+    ["contasegudariadesv"] = true,
+    ["zoro_fenix42"] = true,
+    ["nikz68"] = true,
+    ["kayro20112p"] = true,
+    ["emanifesto6q"] = true,
+    ["Lolyta6662"] = true,
+    ["Migxzz15"] = true,
+    ["sparta9842"] = true,
+}
+
+return allowedUsers
