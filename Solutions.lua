@@ -3,8 +3,9 @@
     
 
     -- 🛠️ Staff
-    
+    Roblox_Anthex
     -- 🎟️ Temporários
+ 
     ["viros_45ks"] = true, -- 1 semana (até 23 Agosto)
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
@@ -24,8 +25,8 @@
     ["AHKEK0"] = true, -- até 1 de setembro
     ["vivi18197"] = true, -- até 24 de setembro
     ["huzako7"] = true, -- até 24 de setembro
-    ["BLSOLTEIRO"] = true, -- até 21 de outubro
-    ["kaiserfogo9"] = true, -- até 21 de setembro
+    ["BLSOLTEIRO"] = true, -- até 21 de setembro
+ ["kaiserfogo9"] = true, -- até 21 de setembro
 
     -- ✅ Permanentes
     ["llenado123456"] = true,
