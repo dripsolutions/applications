@@ -3,6 +3,7 @@
     
 
     -- 🛠️ Staff
+    ["Erikryan_7" = true, 
     ["BD_GOKENNY"] = true, 
     ["Roblox_Anthex"] = true,
     ["RUANRODRIGO121121"] = true,
