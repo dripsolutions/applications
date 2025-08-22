@@ -23,7 +23,7 @@
     ["bxbhcrbyf"] = true, -- até 30 de agosto
     ["AHKEK0"] = true, -- até 1 de setembro
     ["vivi18197"] = true, -- até 24 de setembro
-    ["huzako7"] = true, -- até 24 de setembro 
+    ["huzako7"] = true, -- até 24 de setembro
     ["BLSOLTEIRO"] = true, -- até 21 de outubro
 
     -- ✅ Permanentes
