@@ -1,6 +1,6 @@
  allowedUsers = {
-    -- 👑 Criador
-    ["hdhfhfxjbx"] = true, -- Criador
+    -- 📷 Criador de conteúdo
+    
 
     -- 🛠️ Staff
     
