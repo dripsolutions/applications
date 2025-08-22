@@ -3,7 +3,7 @@
     
 
     -- 🛠️ Staff
-    ["BD_GOKENNY"] = True, 
+    ["BD_GOKENNY"] = true, 
     ["Roblox_Anthex"] = true,
     -- 🎟️ Temporários
  
