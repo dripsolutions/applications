@@ -25,6 +25,7 @@
     ["vivi18197"] = true, -- até 24 de setembro
     ["huzako7"] = true, -- até 24 de setembro
     ["BLSOLTEIRO"] = true, -- até 21 de outubro
+    ["kaiserfogo9"] = true, -- até 21 de setembro
 
     -- ✅ Permanentes
     ["llenado123456"] = true,
