@@ -24,6 +24,7 @@
     ["AHKEK0"] = true, -- até 1 de setembro
     ["vivi18197"] = true, -- até 24 de setembro
     ["huzako7"] = true, -- até 24 de setembro 
+    ["BLSOLTEIRO"]
 
     -- ✅ Permanentes
     ["llenado123456"] = true,
