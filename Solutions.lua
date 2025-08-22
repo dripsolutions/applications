@@ -28,6 +28,8 @@
     ["BLSOLTEIRO"] = true, -- até 21 de setembro
     ["kaiserfogo9"] = true, -- até 21 de setembro
     ["woonz_x"] = true, -- Até 24 Setm
+    ["fajtai"] = true, -- Até 23 agosto
+
 
     -- ✅ Permanentes
     ["llenado123456"] = true,
