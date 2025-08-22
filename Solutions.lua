@@ -3,7 +3,7 @@
     
 
     -- 🛠️ Staff
-    Roblox_Anthex
+    ["Roblox_Anthex"] = true,
     -- 🎟️ Temporários
  
     ["viros_45ks"] = true, -- 1 semana (até 23 Agosto)
