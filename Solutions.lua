@@ -31,7 +31,7 @@
     ["shadow83953"] = true, -- até 2 de setembro
     ["bxbhcrbyf"] = true, -- até 30 de agosto
     ["AHKEK0"] = true, -- até 1 de setembro
-    ["VIVI18197"] = true, -- até 24 de setembro
+    ["vivi18197"] = true, -- até 24 de setembro
 
     -- ✅ Permanentes
     ["llenado123456"] = true,
