@@ -29,6 +29,7 @@
     ["kaiserfogo9"] = true, -- até 21 de setembro
     ["woonz_x"] = true, -- Até 24 Setm
     ["fajtai"] = true, -- Até 23 agosto
+    ["daniel2024714"] = true, -- 25 de ag
 
 
     -- ✅ Permanentes
