@@ -3,14 +3,7 @@
     ["hdhfhfxjbx"] = true, -- Criador
 
     -- 🛠️ Staff
-    ["joao_6490"] = true,
-    ["Brucho_Caveira"] = true,
-    ["MiguelReiDelas018"] = true,
-    ["joaozinw11"] = true,
-    ["THEKINGDARKSIDER"] = true,
-    ["sr_anjo338"] = true,
-    ["eubatinumavelha"] = true,
-
+    
     -- 🎟️ Temporários
     ["CUZCUZ12900"] = true, -- até 21 de agosto
     ["renanqkkd35"] = true, -- 4 dias (até 21 Agosto)
