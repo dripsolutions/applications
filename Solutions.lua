@@ -5,8 +5,6 @@
     -- 🛠️ Staff
     
     -- 🎟️ Temporários
-    ["CUZCUZ12900"] = true, -- até 21 de agosto
-    ["renanqkkd35"] = true, -- 4 dias (até 21 Agosto)
     ["viros_45ks"] = true, -- 1 semana (até 23 Agosto)
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
