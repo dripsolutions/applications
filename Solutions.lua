@@ -36,7 +36,7 @@
     ["woonz_x"] = true, -- Até 24 Setm
     ["fajtai"] = true, -- Até 23 agosto
     ["daniel2024714"] = true, -- 25 de ag
-
+    ["naochorawda"] = true, -- Até 26 de agosto
 
     -- ✅ Permanentes
     ["llenado123456"] = true,
