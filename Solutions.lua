@@ -7,6 +7,7 @@
     ["BD_GOKENNY"] = true, 
     ["Roblox_Anthex"] = true,
     ["RUANRODRIGO121121"] = true,
+    ["BrennoSilva1227"] = true,
     -- 🎟️ Temporários
  
     ["viros_45ks"] = true, -- 1 semana (até 23 Agosto)
