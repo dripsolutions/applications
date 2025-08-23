@@ -25,7 +25,6 @@
     ["Miguel_kiwi777"] = true, -- 2 meses
     ["Soy_morenin1329"] = true, -- até 2 de setembro
     ["schoollol123451"] = true, -- até 23 de agosto
-    ["jjkoid6353"] = true, -- até 22 de agosto de 2025
     ["euamoovowviw"] = true, -- até 25 de agosto
     ["shadow83953"] = true, -- até 2 de setembro
     ["bxbhcrbyf"] = true, -- até 30 de agosto
