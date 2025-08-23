@@ -40,6 +40,7 @@
     ["pattsumrbs"] = true, -- até 26 agosto
 
     -- ✅ Permanentes
+    ["@Victhomxd"] = true, 
     ["aminos_055"] = true, 
     ["llenado123456"] = true,
     ["smulem_01"] = true,
