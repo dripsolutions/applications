@@ -1,5 +1,6 @@
  allowedUsers = {
     -- 📷 Criador de conteúdo
+    ["kgdfh6"] = true, -- 2 dia
     
 
     -- 🛠️ Staff
