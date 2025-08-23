@@ -37,7 +37,7 @@
     ["fajtai"] = true, -- Até 23 agosto
     ["daniel2024714"] = true, -- 25 de ag
     ["naochorawda"] = true, -- Até 26 de agosto
-    ["Pattsumrbs"] = true, -- até 26 agosto
+    ["pattsumrbs"] = true, -- até 26 agosto
 
     -- ✅ Permanentes
     ["llenado123456"] = true,
