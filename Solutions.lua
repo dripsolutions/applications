@@ -13,7 +13,6 @@
   
     -- 🎟️ Temporários
  
-    ["viros_45ks"] = true, -- 1 semana (até 23 Agosto)
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
     ["lindobrs1"] = true, -- 1 semana
@@ -24,7 +23,6 @@
     ["Aloysioerick"] = true, -- 2 meses
     ["Miguel_kiwi777"] = true, -- 2 meses
     ["Soy_morenin1329"] = true, -- até 2 de setembro
-    ["schoollol123451"] = true, -- até 23 de agosto
     ["euamoovowviw"] = true, -- até 25 de agosto
     ["shadow83953"] = true, -- até 2 de setembro
     ["bxbhcrbyf"] = true, -- até 30 de agosto
@@ -34,7 +32,6 @@
     ["BLSOLTEIRO"] = true, -- até 21 de setembro
     ["kaiserfogo9"] = true, -- até 21 de setembro
     ["woonz_x"] = true, -- Até 24 Setm
-    ["fajtai"] = true, -- Até 23 agosto
     ["daniel2024714"] = true, -- 25 de ag
     ["naochorawda"] = true, -- Até 26 de agosto
     ["pattsumrbs"] = true, -- até 26 agosto
