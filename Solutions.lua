@@ -12,7 +12,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
- 
+    ["xxXLuizXxx1938"] = true, -- 1 semana 
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
     ["lindobrs1"] = true, -- 1 semana
