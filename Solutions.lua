@@ -35,7 +35,7 @@
     ["daniel2024714"] = true, -- 25 de ag
     ["naochorawda"] = true, -- Até 26 de agosto
     ["pattsumrbs"] = true, -- até 26 agosto
-    ["HUGOLaojok"] = true, --
+    ["HUGOLaojok"] = true, --ate 3 de setembro
 
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
