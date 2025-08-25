@@ -35,7 +35,7 @@
     ["naochorawda"] = true, -- Até 26 de agosto
     ["pattsumrbs"] = true, -- até 26 agosto
     ["HUGOLaojok"] = true, --ate 3 de setembro
-
+    ["Itz_BielzinTk"] = true, -- 5 de setem
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
