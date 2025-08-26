@@ -12,6 +12,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
+    ["nick1234568172"] = true, -- 3 dias
     ["xxXLuizXxx1938"] = true, -- 1 semana 
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
@@ -44,6 +45,7 @@
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
     ["Sanji09414"] = true, -- 29 de agosto
     ["twelo_zinha3"] = true, -- de 26 ate dia 26 de setembro
+
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
