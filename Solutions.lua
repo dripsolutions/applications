@@ -42,6 +42,7 @@
     ["Chiqui26282"] = true, -- 4 de setembro
     ["Riggs_scott"] = true, -- 4 de setembro
     ["kokuxibo_590"] = true, -- 4 de setembro
+
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
