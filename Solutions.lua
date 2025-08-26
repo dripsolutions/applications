@@ -42,7 +42,7 @@
     ["kokuxibo_590"] = true, -- 4 de setembro
     ["Vitorrobloxsete"] = true, -- 4 de setembro 
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
-
+    ["Sanji09414"] = true, -- 29 de agosto
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
