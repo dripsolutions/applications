@@ -12,8 +12,6 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
-    ["Vitorrobloxsete"] = true, -- 1 Semana
-    ["deltaexecutor_kk"] = true, -- 1 semana
     ["xxXLuizXxx1938"] = true, -- 1 semana 
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
@@ -42,6 +40,8 @@
     ["chiqui26282"] = true, -- 4 de setembro
     ["Riggs_scott"] = true, -- 4 de setembro
     ["kokuxibo_590"] = true, -- 4 de setembro
+    ["Vitorrobloxsete"] = true, -- 4 de setembro 
+    ["deltaexecutor_kk"] = true, -- 4 de setembro 
 
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
