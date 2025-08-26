@@ -12,7 +12,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
-    ["deltaexecutor_kk"] = true, 1 semana e 3 Dias
+    ["deltaexecutor_kk"] = true, -- 1 semana e 3 Dias 
     ["xxXLuizXxx1938"] = true, -- 1 semana 
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
