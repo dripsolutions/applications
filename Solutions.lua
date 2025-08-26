@@ -43,6 +43,7 @@
     ["Vitorrobloxsete"] = true, -- 4 de setembro 
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
     ["Sanji09414"] = true, -- 29 de agosto
+    ["twelo_zinha3"] = true, -- de 26 ate dia 26 de setembro
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
