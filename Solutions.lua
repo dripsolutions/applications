@@ -12,8 +12,8 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
-    ["Vitorrobloxsete"] = true, -- 1 Semana e 3 Dias
-    ["deltaexecutor_kk"] = true, -- 1 semana e 3 Dias 
+    ["Vitorrobloxsete"] = true, -- 1 Semana
+    ["deltaexecutor_kk"] = true, -- 1 semana
     ["xxXLuizXxx1938"] = true, -- 1 semana 
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
