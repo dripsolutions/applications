@@ -46,6 +46,7 @@
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
     ["sanji09414"] = true, -- 29 de agosto
     ["twelo_zinha3"] = true, -- de 26 ate dia 26 de setembro
+    ["BryanMottsY"] = true, -- de 27 ate dia dia 3 de setembro
 
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
