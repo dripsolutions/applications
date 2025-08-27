@@ -10,6 +10,7 @@
     ["RUANRODRIGO121121"] = true,
     ["BrennoSilva1227"] = true,
     ["magnusfxp"] = true,
+    ["Riggs_scott"] = true,
   
     -- 🎟️ Temporários
     ["nick1234568172"] = true, -- 3 dias
