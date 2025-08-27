@@ -13,7 +13,6 @@
     ["Riggs_scott"] = true,
   
     -- 🎟️ Temporários
-    ["nick1234568172"] = true, -- 3 dias
     ["xxXLuizXxx1938"] = true, -- 1 semana 
     ["carlsinhadaquebrada"] = true, -- 1 semana
     ["MolChops2013"] = true, -- 1 semana
@@ -25,7 +24,6 @@
     ["Aloysioerick"] = true, -- 2 meses
     ["Miguel_kiwi777"] = true, -- 2 meses
     ["Soy_morenin1329"] = true, -- até 2 de setembro
-    ["euamoovowviw"] = true, -- até 25 de agosto
     ["bxbhcrbyf"] = true, -- até 30 de agosto
     ["AHKEK0"] = true, -- até 1 de setembro
     ["vivi18197"] = true, -- até 24 de setembro
@@ -33,9 +31,7 @@
     ["BLSOLTEIRO"] = true, -- até 21 de setembro
     ["kaiserfogo9"] = true, -- até 21 de setembro
     ["woonz_x"] = true, -- Até 24 Setm
-    ["daniel2024714"] = true, -- 25 de ag
-    ["naochorawda"] = true, -- Até 26 de agosto
-    ["pattsumrbs"] = true, -- até 26 agosto
+    ["daniel2024714"] = true, -- 25 de agosto
     ["HUGOLaojok"] = true, --ate 3 de setembro
     ["Itz_BielzinTk"] = true, -- 5 de setem
     ["Guizola458"] = true, -- 28 de agosto
@@ -45,10 +41,10 @@
     ["Vitorrobloxsete"] = true, -- 4 de setembro 
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
     ["sanji09414"] = true, -- 29 de agosto
-    ["twelo_zinha3"] = true, -- de 26 ate dia 26 de setembro
-    ["BryanMottsY"] = true, -- de 27 ate dia dia 3 de setembro
+    ["twelo_zinha3"] = true, -- de 26/08 ate dia 26 de setembro
+    ["BryanMottsY"] = true, -- de 27/08 ate dia dia 3 de setembro
     ["mendrake_253"] = true, -- 27 até dia 29 de agosto 
-    ["lamJvzin"] = true, -- 27 até 30 e 2 horas
+    ["lamJvzin"] = true, -- 27/08 até dia 30/08 e 2 horas
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
