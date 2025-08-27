@@ -47,7 +47,8 @@
     ["sanji09414"] = true, -- 29 de agosto
     ["twelo_zinha3"] = true, -- de 26 ate dia 26 de setembro
     ["BryanMottsY"] = true, -- de 27 ate dia dia 3 de setembro
-    ["mendrake_253"] = true, -- 27 até dia 29 de agosto
+    ["mendrake_253"] = true, -- 27 até dia 29 de agosto 
+    ["lamJvzin"] = true, -- 27 até 30 e 2 horas
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
