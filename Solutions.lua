@@ -45,7 +45,7 @@
     ["BryanMottsY"] = true, -- de 27/08 ate dia dia 3 de setembro
     ["mendrake_253"] = true, -- 27 até dia 29 de agosto 
     ["lamJvzin"] = true, -- 27/08 até dia 30/08 e 2 horas 
-    ["roblox_freitas24"] = true, 27/08 até dia 29 e 5 horas
+    ["roblox_freitas24"] = true, --  27/08 até dia 29 e 5 horas
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
