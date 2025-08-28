@@ -47,6 +47,7 @@
     ["lamJvzin"] = true, -- 27/08 até dia 30/08 e 2 horas 
     ["roblox_freitas24"] = true, --  27/08 até dia 29 e 5 horas
     ["Gabrielmilitar_6"] = true, -- 27/08 até a 4 meses
+    ["Riggs_scott"] = true, -- 26/08 ate 26/09
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
