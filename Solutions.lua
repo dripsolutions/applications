@@ -34,10 +34,10 @@
     ["sanji09414"] = true, -- 29 de agosto
     ["twelo_zinha3"] = true, -- (26/08 até 26/09)
     ["BryanMottsY"] = true, -- (26/08 até 02/09)
-    ["mendrake_253"] = true, -- 27 até dia 29 de agosto 
-    ["lamJvzin"] = true, -- 27/08 até dia 30/08 e 2 horas 
-    ["roblox_freitas24"] = true, --  27/08 até dia 29 e 5 horas
-    ["Gabrielmilitar_6"] = true, -- 27/08 até a 4 meses
+    ["mendrake_253"] = true, -- (27 até dia 29 de agosto) 
+    ["lamJvzin"] = true, -- (27/08 até dia 30/08 e 2 horas) 
+    ["roblox_freitas24"] = true, --  (27/08 até dia 29/08 e 5 horas)
+    ["Gabrielmilitar_6"] = true, -- (27/08 até 27/12)
     ["Riggs_scott"] = true, -- 26/08 ate 26/09
     ["01Xxx09"] = true, -- 29/08 até 12/09
     ["lucastdgh3"] = true, -- (29/08 até 01/09)
