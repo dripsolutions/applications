@@ -13,10 +13,6 @@
     ["Riggs_scott"] = true,
   
     -- 🎟️ Temporários
-    ["carlsinhadaquebrada"] = true, -- 1 semana
-    ["MolChops2013"] = true, -- 1 semana
-    ["lindobrs1"] = true, -- 1 semana
-    ["joao96874"] = true, -- 1 semana
     ["panderercc"] = true, -- 1 semana
     ["lucas02sjsj"] = true, -- 1 mês
     ["cleitinho_adm"] = true, -- 1 mês
