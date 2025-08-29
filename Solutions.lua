@@ -13,9 +13,9 @@
     ["Riggs_scott"] = true,
   
     -- 🎟️ Temporários
-    ["lucas02sjsj"] = true, -- (19/08 até 17/09)
-    ["cleitinho_adm"] = true, -- (16/08 até 16/09)
-    ["Aloysioerick"] = true, -- (24/08 até dia 24/10)
+    ["lucas02sjsj"] = true, -- (19/08 até 19/09)
+    ["cleitinho_adm"] = true, -- (19/08 até 19/09)
+    ["Aloysioerick"] = true, -- (17/08 até dia 24/10)
     ["Miguel_kiwi777"] = true, -- (
     ["Soy_morenin1329"] = true, -- até 2 de setembro
     ["bxbhcrbyf"] = true, -- até 30 de agosto
