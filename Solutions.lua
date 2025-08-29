@@ -13,11 +13,10 @@
     ["Riggs_scott"] = true,
   
     -- 🎟️ Temporários
-    ["panderercc"] = true, -- 1 semana
-    ["lucas02sjsj"] = true, -- 1 mês
-    ["cleitinho_adm"] = true, -- 1 mês
-    ["Aloysioerick"] = true, -- 2 meses
-    ["Miguel_kiwi777"] = true, -- 2 meses
+    ["lucas02sjsj"] = true, -- (19/08 até 17/09)
+    ["cleitinho_adm"] = true, -- (16/08 até 16/09)
+    ["Aloysioerick"] = true, -- (24/08 até dia 24/10)
+    ["Miguel_kiwi777"] = true, -- (
     ["Soy_morenin1329"] = true, -- até 2 de setembro
     ["bxbhcrbyf"] = true, -- até 30 de agosto
     ["AHKEK0"] = true, -- até 1 de setembro
@@ -28,7 +27,6 @@
     ["woonz_x"] = true, -- Até 24 Setm
     ["HUGOLaojok"] = true, --ate 3 de setembro
     ["Itz_BielzinTk"] = true, -- 5 de setem
-    ["Guizola458"] = true, -- 28 de agosto
     ["chiqui26282"] = true, -- 4 de setembro
     ["Riggs_scott"] = true, -- 4 de setembro
     ["kokuxibo_590"] = true, -- 4 de setembro
