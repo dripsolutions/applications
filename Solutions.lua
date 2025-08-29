@@ -41,7 +41,7 @@
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
     ["sanji09414"] = true, -- 29 de agosto
     ["twelo_zinha3"] = true, -- de 26/08 ate dia 26 de setembro
-    ["BryanMottsY"] = true, -- de 27/08 ate dia dia 3 de setembro
+    ["BryanMottsY"] = true, -- de 27/08 ate dia 3 de setembro
     ["mendrake_253"] = true, -- 27 até dia 29 de agosto 
     ["lamJvzin"] = true, -- 27/08 até dia 30/08 e 2 horas 
     ["roblox_freitas24"] = true, --  27/08 até dia 29 e 5 horas
