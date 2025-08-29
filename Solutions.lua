@@ -40,7 +40,8 @@
     ["Gabrielmilitar_6"] = true, -- (27/08 até 27/12)
     ["Riggs_scott"] = true, -- 26/08 ate 26/09
     ["01Xxx09"] = true, -- 29/08 até 12/09
-    ["lucastdgh3"] = true, -- (29/08 até 01/09)
+    ["lucastdgh3"] = true, -- (29/08 até 01/09) 
+    ["almahola9"] = true, -- (29/08 até 13/09)
 
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
