@@ -10,7 +10,6 @@
     ["RUANRODRIGO121121"] = true,
     ["BrennoSilva1227"] = true,
     ["magnusfxp"] = true,
-    ["Riggs_scott"] = true,
   
     -- 🎟️ Temporários
     ["lucas02sjsj"] = true, -- (14/08 até 14/09) 1 mês de painel
