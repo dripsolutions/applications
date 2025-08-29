@@ -42,7 +42,7 @@
     ["01Xxx09"] = true, -- 29/08 até 12/09
     ["lucastdgh3"] = true, -- (29/08 até 01/09) 
     ["almahola9"] = true, -- (29/08 até 13/09)
-
+    ["tobi_queisso"] = true, -- (29/09 até 02/09)
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
