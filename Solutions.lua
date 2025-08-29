@@ -13,10 +13,10 @@
     ["Riggs_scott"] = true,
   
     -- 🎟️ Temporários
-    ["lucas02sjsj"] = true, -- (19/08 até 19/09)
-    ["cleitinho_adm"] = true, -- (19/08 até 19/09)
-    ["Aloysioerick"] = true, -- (17/08 até dia 24/10)
-    ["Miguel_kiwi777"] = true, -- (
+    ["lucas02sjsj"] = true, -- (14/08 até 14/09) 1 mês de painel
+    ["cleitinho_adm"] = true, -- (15/08 até 15/09) 1 mês de painel
+    ["Aloysioerick"] = true, -- (17/08 até 17/10) 2 meses de painel
+    ["Miguel_kiwi777"] = true, -- (18/08 até 18/09) 2 meses de painel
     ["Soy_morenin1329"] = true, -- até 2 de setembro
     ["bxbhcrbyf"] = true, -- até 30 de agosto
     ["AHKEK0"] = true, -- até 1 de setembro
@@ -33,15 +33,15 @@
     ["Vitorrobloxsete"] = true, -- 4 de setembro 
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
     ["sanji09414"] = true, -- 29 de agosto
-    ["twelo_zinha3"] = true, -- de 26/08 ate dia 26 de setembro
-    ["BryanMottsY"] = true, -- de 27/08 ate dia 3 de setembro
+    ["twelo_zinha3"] = true, -- (26/08 até 26/09)
+    ["BryanMottsY"] = true, -- (26/08 até 02/09)
     ["mendrake_253"] = true, -- 27 até dia 29 de agosto 
     ["lamJvzin"] = true, -- 27/08 até dia 30/08 e 2 horas 
     ["roblox_freitas24"] = true, --  27/08 até dia 29 e 5 horas
     ["Gabrielmilitar_6"] = true, -- 27/08 até a 4 meses
     ["Riggs_scott"] = true, -- 26/08 ate 26/09
     ["01Xxx09"] = true, -- 29/08 até 12/09
-    ["lucastdgh3"] = true, -- 29/08 até 01/09
+    ["lucastdgh3"] = true, -- (29/08 até 01/09)
 
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
