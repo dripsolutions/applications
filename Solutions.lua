@@ -31,7 +31,6 @@
     ["kokuxibo_590"] = true, -- 4 de setembro
     ["Vitorrobloxsete"] = true, -- 4 de setembro 
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
-    ["sanji09414"] = true, -- 29 de agosto
     ["twelo_zinha3"] = true, -- (26/08 até 26/09)
     ["BryanMottsY"] = true, -- (26/08 até 02/09)
     ["mendrake_253"] = true, -- (27 até dia 29 de agosto) 
