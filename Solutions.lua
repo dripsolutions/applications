@@ -12,6 +12,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
+    ["Bakugo_Master4"] = true, -- (30/08 ate 3/09) 3 dias de painel
     ["lucas02sjsj"] = true, -- (14/08 até 14/09) 1 mês de painel
     ["cleitinho_adm"] = true, -- (15/08 até 15/09) 1 mês de painel
     ["Aloysioerick"] = true, -- (17/08 até 17/10) 2 meses de painel
