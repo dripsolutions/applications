@@ -12,6 +12,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
+    ["enioze_ne"] = true, -- (30/08 ate 05/09) 5 dias de painel
     ["mendrake_253"] = true, -- (30/08 ate 23/09) 23 dias de painel 
     ["ZORIN_CRIA23"] = true, -- (30/08 ate 05/09) 5 dias de painel 
     ["PerfFectBX05840"] = true, -- (30/08 ate 03/09) 3 dias de painel
