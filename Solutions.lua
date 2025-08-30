@@ -12,6 +12,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
+    ["ZORIN_CRIA23"] = true, -- (30/08 ate 05/09) 5 dias de painel 
     ["PerfFectBX05840"] = true, -- (30/08 ate 03/09) 3 dias de painel
     ["MiguelBert2014"] = true, -- (30/08 ate 08/09) 8 dias de painel
     ["Bakugo_Master4"] = true, -- (30/08 ate 03/09) 3 dias de painel
