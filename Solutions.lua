@@ -11,6 +11,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
+    ["LucasKendra0"] = true, -- (30/08 ate 03/09) 4 dias de painel
     ["dvdfy4wfiyf"] = true, -- (30/08 ate 08/09) 1 semana e 1 dia de painel
     ["x_P3drox"] = true, -- (30/08 ate 16/09) 16 dias de painel
     ["enioze_n"] = true, -- (30/08 ate 05/09) 5 dias de painel
