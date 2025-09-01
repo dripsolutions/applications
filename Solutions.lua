@@ -7,7 +7,6 @@
     ["Erikryan_7"] = true, 
     ["Roblox_Anthex"] = true,
     ["RUANRODRIGO121121"] = true,
-    ["BrennoSilva1227"] = true,
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
