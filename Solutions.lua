@@ -26,7 +26,6 @@
     ["Aloysioerick"] = true, -- (17/08 até 17/10) 2 meses de painel
     ["Miguel_kiwi777"] = true, -- (18/08 até 18/09) 2 meses de painel
     ["Soy_morenin1329"] = true, -- até 2 de setembro
-    ["bxbhcrbyf"] = true, -- até 30 de agosto
     ["AHKEK0"] = true, -- até 1 de setembro
     ["vivi18197"] = true, -- até 24 de setembro
     ["huzako7"] = true, -- até 24 de setembro
@@ -42,16 +41,14 @@
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
     ["twelo_zinha3"] = true, -- (26/08 até 26/09)
     ["BryanMottsY"] = true, -- (26/08 até 02/09)
-    ["mendrake_253"] = true, -- (27 até dia 29 de agosto) 
-    ["lamJvzin"] = true, -- (27/08 até dia 30/08 e 2 horas) 
-    ["roblox_freitas24"] = true, --  (27/08 até dia 29/08 e 5 horas)
     ["Gabrielmilitar_6"] = true, -- (27/08 até 27/12)
     ["Riggs_scott"] = true, -- 26/08 ate 26/09
     ["01Xxx09"] = true, -- 29/08 até 12/09
     ["lucastdgh3"] = true, -- (29/08 até 01/09) 
     ["almahola9"] = true, -- (29/08 até 21/01/2026) 
     ["tobi_queisso"] = true, -- (29/09 até 02/09)
-    ["lufulgkugjhchchc7w"] = true, -- (30/09 até 02/09)
+    ["lufulgkugjhchchc7w"] = true, -- (30/09 até 02/09) 
+    ["iwejjbsb1"] = true, -- (01/09 ate 01/01/) 4 meses de painel
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
