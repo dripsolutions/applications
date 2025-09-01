@@ -31,7 +31,6 @@
     ["BLSOLTEIRO"] = true, -- até 21 de setembro
     ["kaiserfogo9"] = true, -- até 21 de setembro
     ["woonz_x"] = true, -- Até 24 Setm
-    ["HUGOLaojok"] = true, --ate 3 de setembro
     ["Itz_BielzinTk"] = true, -- 5 de setem
     ["chiqui26282"] = true, -- 4 de setembro
     ["Riggs_scott"] = true, -- 4 de setembro
