@@ -10,7 +10,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
-    ["jao93847"] = true, -- (02/09 ate 05/09)
+    ["bekill13"] = true, -- (02/09 ate 05/09)
     ["toto12348802"] = true, -- (30/08 ate 15/09)
     ["LucasKendra0"] = true, -- (30/08 ate 03/09) 4 dias de painel
     ["dvdfy4wfiyf"] = true, -- (30/08 ate 08/09) 1 semana e 1 dia de painel
