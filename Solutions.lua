@@ -47,6 +47,7 @@
     ["tobi_queisso"] = true, -- (29/09 até 02/09)
     ["lufulgkugjhchchc7w"] = true, -- (30/09 até 02/09) 
     ["iwejjbsb1"] = true, -- (01/09 ate 01/01/26) 4 meses de painel
+    ["WONEVERY1"] = true, -- (02/09 até 08/09)
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
