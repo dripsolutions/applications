@@ -52,7 +52,7 @@
     ["lufulgkugjhchchc7w"] = true, -- (30/09 até 02/09) 
     ["iwejjbsb1"] = true, -- (01/09 ate 01/01/26) 4 meses de painel
     ["WONEVERY1"] = true, -- (02/09 até 08/09)
-    ["mandrake07970"] = true -- (03/09 até 23/09) 20 dias de painel
+    ["mandrake07970"] = true, -- (03/09 até 23/09) 20 dias de painel
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
