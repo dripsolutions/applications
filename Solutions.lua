@@ -1,6 +1,6 @@
  allowedUsers = {
     -- 📷 Criador de conteúdo
-      ["FFS1L7d3"] = true, (Novo divulgador)
+      ["FFS1L7d3"] = true, -- (Novo divulgador)
     
 
     -- 🛠️ Staff
