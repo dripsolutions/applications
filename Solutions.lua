@@ -10,6 +10,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
+    ["XxRE1xX3"] = true, -- (03/09 ate 07/09) 4 dias de paindl
     ["Eliaquim787"] = true, -- (02/09 ate 06/09) 4 dias de painel
     ["JeephderC462J"] = true, -- (02/09 ate 06/09) 4 dias de painel
     ["ERIK90909082"] = true, -- (02/09 ate 01/11) 2 meses de painel
