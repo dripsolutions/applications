@@ -31,8 +31,6 @@
     ["cleitinho_adm"] = true, -- (15/08 até 15/09) 1 mês de painel
     ["Aloysioerick"] = true, -- (17/08 até 17/10) 2 meses de painel
     ["Miguel_kiwi777"] = true, -- (18/08 até 18/09) 2 meses de painel
-    ["Soy_morenin1329"] = true, -- até 2 de setembro
-    ["AHKEK0"] = true, -- até 1 de setembro
     ["vivi18197"] = true, -- até 24 de setembro
     ["huzako7"] = true, -- até 24 de setembro
     ["BLSOLTEIRO"] = true, -- até 21 de setembro
