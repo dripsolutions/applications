@@ -40,7 +40,6 @@
     ["woonz_x"] = true, -- Até 24 Setm
     ["Itz_BielzinTk"] = true, -- 5 de setem
     ["chiqui26282"] = true, -- 4 de setembro
-    ["Riggs_scott"] = true, -- 4 de setembro
     ["kokuxibo_590"] = true, -- 4 de setembro
     ["Vitorrobloxsete"] = true, -- 4 de setembro 
     ["deltaexecutor_kk"] = true, -- 4 de setembro 
@@ -55,6 +54,7 @@
     ["lufulgkugjhchchc7w"] = true, -- (30/09 até 02/09) 
     ["iwejjbsb1"] = true, -- (01/09 ate 01/01/26) 4 meses de painel
     ["WONEVERY1"] = true, -- (02/09 até 08/09)
+    ["mandrake07970"] = true -- (03/09 até 23/09) 20 dias de painel
     -- ✅ Permanentes
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
