@@ -20,7 +20,6 @@
     ["bekill13"] = true, -- (02/09 ate 05/09)
     ["toto12348802"] = true, -- (30/08 ate 15/09)
     ["LucasKendra0"] = true, -- (30/08 ate 03/09) 4 dias de painel
-    ["dvdfy4wfiyf"] = true, -- (30/08 ate 08/09) 1 semana e 1 dia de painel
     ["x_P3drox"] = true, -- (30/08 ate 16/09) 16 dias de painel
     ["enioze_n"] = true, -- (30/08 ate 05/09) 5 dias de painel
     ["mendrake_253"] = true, -- (30/08 ate 23/09) 23 dias de painel 
@@ -77,6 +76,7 @@
     ["Migxzz15"] = true,
     ["sparta9842"] = true,
     ["MENOR_RSA"] = true,
+    ["dvdfy4wfiyf"] = true,
 }
 
 return allowedUsers
