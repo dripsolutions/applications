@@ -75,6 +75,7 @@
     ["Lolyta6662"] = true,
     ["Migxzz15"] = true,
     ["sparta9842"] = true,
+    ["MENOR_RSA"] " true,
 }
 
 return allowedUsers
