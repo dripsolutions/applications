@@ -10,6 +10,7 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
+    ["papanoelpro12342"] = true, -- (04/09 ate 20/09) 16 dias de painel
     ["spyderSammdy"] = true, -- (03/09 ate 11/09)
     ["FILHO_DOR7"] = true, -- (03/09 ate 06/09) 3 dias de painel 
     ["XxRE1xX3"] = true, -- (03/09 ate 07/09) 4 dias de paindl
