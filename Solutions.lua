@@ -10,7 +10,6 @@
     ["magnusfxp"] = true,
   
     -- 🎟️ Temporários
-    ["shotxz_cria"] = true, -- (04/09 ate 25/09) 21 dias de painel
     ["papanoelpro12342"] = true, -- (04/09 ate 20/09) 16 dias de painel
     ["spyderSammdy"] = true, -- (03/09 ate 11/09)
     ["FILHO_DOR7"] = true, -- (03/09 ate 06/09) 3 dias de painel 
@@ -56,6 +55,7 @@
     ["WONEVERY1"] = true, -- (02/09 até 08/09)
     ["mandrake07970"] = true, -- (03/09 até 23/09) 20 dias de painel
     -- ✅ Permanentes
+    ["shotxz_cria"] = true,
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
     ["llenado123456"] = true,
