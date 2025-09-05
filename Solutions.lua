@@ -54,7 +54,7 @@
     ["iwejjbsb1"] = true, -- (01/09 ate 01/01/26) 4 meses de painel
     ["WONEVERY1"] = true, -- (02/09 até 08/09)
     ["mandrake07970"] = true, -- (03/09 até 23/09) 20 dias de painel
-    ["mini_fofinhodemais" = true, -- (05/09 até 08/09) 3 dia de painel
+    ["mini_fofinhodemais"] = true, -- (05/09 até 08/09) 3 dia de painel
     -- ✅ Permanentes
     ["shotxz_cria"] = true,
     ["Victhomxd"] = true, 
