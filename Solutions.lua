@@ -13,14 +13,10 @@
     ["Aliban_32"] = true, -- (05/09 ate 08/09) 3 dias
     ["papanoelpro12342"] = true, -- (04/09 ate 20/09) 16 dias de painel
     ["spyderSammdy"] = true, -- (03/09 ate 11/09)
-    ["FILHO_DOR7"] = true, -- (03/09 ate 06/09) 3 dias de painel 
     ["XxRE1xX3"] = true, -- (03/09 ate 07/09) 4 dias de paindl
     ["Eliaquim787"] = true, -- (02/09 ate 06/09) 4 dias de painel
-    ["JeephderC462J"] = true, -- (02/09 ate 06/09) 4 dias de painel
     ["ERIK90909082"] = true, -- (02/09 ate 01/11) 2 meses de painel
-    ["bekill13"] = true, -- (02/09 ate 05/09)
     ["toto12348802"] = true, -- (30/08 ate 15/09)
-    ["LucasKendra0"] = true, -- (30/08 ate 03/09) 4 dias de painel
     ["x_P3drox"] = true, -- (30/08 ate 16/09) 16 dias de painel
     ["enioze_n"] = true, -- (30/08 ate 05/09) 5 dias de painel
     ["mendrake_253"] = true, -- (30/08 ate 23/09) 23 dias de painel 
@@ -37,11 +33,6 @@
     ["BLSOLTEIRO"] = true, -- até 21 de setembro
     ["kaiserfogo9"] = true, -- até 21 de setembro
     ["woonz_x"] = true, -- Até 24 Setm
-    ["Itz_BielzinTk"] = true, -- 5 de setem
-    ["chiqui26282"] = true, -- 4 de setembro
-    ["kokuxibo_590"] = true, -- 4 de setembro
-    ["Vitorrobloxsete"] = true, -- 4 de setembro 
-    ["deltaexecutor_kk"] = true, -- 4 de setembro 
     ["twelo_zinha3"] = true, -- (26/08 até 26/09)
     ["BryanMottsY"] = true, -- (26/08 até 02/09)
     ["Gabrielmilitar_6"] = true, -- (27/08 até 27/12)
