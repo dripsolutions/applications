@@ -39,6 +39,7 @@
     ["mini_fofinhodemais"] = true, -- (05/09 até 08/09) 3 dia de painel
     ["MANDRAK123459"] = true, -- (05/09 até 08/09) 3 dias painel
     -- ✅ Permanentes
+    ["21qxkg"] = true, 
     ["shotxz_cria"] = true,
     ["Victhomxd"] = true, 
     ["aminos_055"] = true, 
