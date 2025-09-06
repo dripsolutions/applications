@@ -1,7 +1,7 @@
  allowedUsers = {
     -- 📷 Criador de conteúdo
       ["FFS1L7d3"] = true, -- (Novo divulgador)
-    
+      ["Aloysioerick"] =》true, -- chiagoremastered    
 
     -- 🛠️ Staff
     ["Erikryan_7"] = true, 
