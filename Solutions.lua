@@ -8,6 +8,7 @@
     ["Roblox_Anthex"] = true,
     ["RUANRODRIGO121121"] = true,
     ["magnusfxp"] = true,
+    ["roblox_freitas24"] = true,
   
     -- 🎟️ Temporários
     ["Aliban_32"] = true, -- (05/09 ate 08/09) 3 dias
