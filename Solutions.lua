@@ -38,6 +38,7 @@
     ["mandrake07970"] = true, -- (03/09 até 23/09) 20 dias de painel
     ["mini_fofinhodemais"] = true, -- (05/09 até 08/09) 3 dia de painel
     ["MANDRAK123459"] = true, -- (05/09 até 08/09) 3 dias painel
+    ["biel_mrqs"] = true, --(06/09 ate 6 de janeiro)
     -- ✅ Permanentes
     ["botinha_W"] = true, 
     ["21qxkg"] = true, 
