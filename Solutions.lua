@@ -43,7 +43,8 @@
     ["MANDRAK123459"] = true, -- (05/09 até 08/09) 3 dias painel
     ["biel_mrqs"] = true, --(06/09 ate 6 de janeiro)
     ["BloxLOUX_YT"] = true, --(06/09 ate 09/09)
-    ["CRIA027K"] = true, --(07/09 até 19/09)
+    ["CRIA027K"] = true, --(07/09 até 19/09)  
+    ["berluiz2001"] = true, --(07/09 até 07/11) 2 meses de painel
     -- ✅ Permanentes
     ["botinha_W"] = true, 
     ["21qxkg"] = true, 
