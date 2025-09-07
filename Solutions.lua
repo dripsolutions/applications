@@ -45,7 +45,8 @@
     ["BloxLOUX_YT"] = true, --(06/09 ate 09/09)
     ["CRIA027K"] = true, --(07/09 até 19/09)  
     ["berluiz2001"] = true, --(07/09 até 07/11) 2 meses de painel 
-    ["12etdfgj"] = true, -- (07/09 até 14/09) 7/6 dias de painel
+    ["12etdfgj"] = true, -- (07/09 até 14/09) 7/6 dias de painel 
+    ["ggmax10t"] = true, -- (07/09 até 07/10) 1 mês de painel
     -- ✅ Permanentes
     ["botinha_W"] = true, 
     ["21qxkg"] = true, 
