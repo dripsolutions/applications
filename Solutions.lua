@@ -4,14 +4,14 @@
       ["FFS1L7d3"] = true, -- (Novo divulgador)
       ["Aloysioerick"] = true, -- chiagoremastered    
 
-    -- 🛠️ Staff
-    ["Erikryan_7"] = true, 
+    -- 🛠️ Staff 
     ["Roblox_Anthex"] = true,
     ["RUANRODRIGO121121"] = true,
     ["magnusfxp"] = true,
     ["roblox_freitas24"] = true,
   
     -- 🎟️ Temporários
+    ["nz_stylekkj"] = true, -- (07/09 ate 10/09)
     ["kheuj2bsqjhwhwy"] = true, -- (07/09 ate 10/09) 3 dias
     ["Aliban_32"] = true, -- (05/09 ate 08/09) 3 dias
     ["papanoelpro12342"] = true, -- (04/09 ate 20/09) 16 dias de painel
