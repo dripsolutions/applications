@@ -1,5 +1,6 @@
  allowedUsers = {
     -- 📷 Criador de conteúdo
+      ["KNZINN_NOVAMENTE"] = true, -- (novo divulgador ofc) 
       ["FFS1L7d3"] = true, -- (Novo divulgador)
       ["Aloysioerick"] = true, -- chiagoremastered    
 
@@ -11,6 +12,7 @@
     ["roblox_freitas24"] = true,
   
     -- 🎟️ Temporários
+    ["kheuj2bsqjhwhwy"] = true, -- (07/09 ate 10/09) 3 dias
     ["Aliban_32"] = true, -- (05/09 ate 08/09) 3 dias
     ["papanoelpro12342"] = true, -- (04/09 ate 20/09) 16 dias de painel
     ["spyderSammdy"] = true, -- (03/09 ate 11/09)
