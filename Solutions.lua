@@ -48,6 +48,7 @@
     ["12etdfgj"] = true, -- (07/09 até 14/09) 7/6 dias de painel 
     ["ggmax10t"] = true, -- (07/09 até 07/10) 1 mês de painel
     ["mellu107"] = true, -- (07/09 ate 10/09) -- 3 dias
+    ["rylyn15243w0"] = true, -- (07/09 10/09) -- 3
     -- ✅ Permanentes
     ["botinha_W"] = true, 
     ["21qxkg"] = true, 
