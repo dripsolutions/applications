@@ -49,6 +49,7 @@
     ["ggmax10t"] = true, -- (07/09 até 07/10) 1 mês de painel
     ["mellu107"] = true, -- (07/09 ate 10/09) -- 3 dias
     ["rylyn15243w0"] = true, -- (07/09 10/09) -- 3
+    ["MasterReaper111"] = true, -- (08/09 até 08/01) 4mss
     -- ✅ Permanentes
     ["botinha_W"] = true, 
     ["21qxkg"] = true, 
