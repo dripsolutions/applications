@@ -47,6 +47,7 @@
     ["berluiz2001"] = true, --(07/09 até 07/11) 2 meses de painel 
     ["12etdfgj"] = true, -- (07/09 até 14/09) 7/6 dias de painel 
     ["ggmax10t"] = true, -- (07/09 até 07/10) 1 mês de painel
+    ["mellu107"] = true, -- (07/09 ate 10/09) -- 3 dias
     -- ✅ Permanentes
     ["botinha_W"] = true, 
     ["21qxkg"] = true, 
