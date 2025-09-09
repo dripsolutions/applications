@@ -48,8 +48,9 @@
     ["Theozinhodomorro"]     = true, -- 08/09 até 11/09
     ["ueuruirue"]            = true, -- 08/09 até 11/09
     ["Reibaxaid2"]           = true, -- 08/09 até 11/09
-    ["cantanguandi2"]        =true, -- 08/09 11/09
-    ["KNZINN_NOVAMENTE1"]    =true, -- 08/08 11/09
+    ["cantanguandi2"]        = true, -- 08/09 11/09
+    ["KNZINN_NOVAMENTE1"]    = true, -- 08/08 11/09
+    ["Henrique8844"]         = true, -- 09/09 12/09     
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
