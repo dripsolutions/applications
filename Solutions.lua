@@ -35,10 +35,7 @@
     ["01Xxx09"]              = true, -- 29/08 até 12/09
     ["almahola9"]            = true, -- 29/08 até 21/01/2026
     ["iwejjbsb1"]            = true, -- 01/09 até 01/01/2026
-    ["WONEVERY1"]            = true, -- 02/09 até 08/09
     ["mandrake07970"]        = true, -- 03/09 até 23/09
-    ["mini_fofinhodemais"]   = true, -- 05/09 até 08/09
-    ["MANDRAK123459"]        = true, -- 05/09 até 08/09
     ["biel_mrqs"]            = true, -- 06/09 até 06/01
     ["BloxLOUX_YT"]          = true, -- 06/09 até 09/09
     ["CRIA027K"]             = true, -- 07/09 até 19/09
