@@ -52,7 +52,7 @@
     ["KNZINN_NOVAMENTE1"]    = true, -- 08/08 11/09
     ["Henrique8844"]         = true, -- 09/09 12/09     
     ["brawlsolao"]           = true, -- 09/09 12/09
-    ["GIH_QTEODEIA6"]        = true, -- 09/09 12/09
+    ["sadx5434"]             = true, -- 09/09 12/09
     ["Mr_AbelO5"]            = true, -- as 22 horas  
  --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
