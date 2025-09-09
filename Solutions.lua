@@ -53,8 +53,8 @@
     ["Henrique8844"]         = true, -- 09/09 12/09     
     ["brawlsolao"]           = true, -- 09/09 12/09
     ["GIH_QTEODEIA6"]        = true, -- 09/09 12/09
-    ["Mr_AbelO5"]            = true, -- 3 horas
-    --  Permanentes Uses 🍒
+    ["Mr_AbelO5"]            = true, -- as 22 horas  
+ --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
     ["shotxz_cria"]          = true,
