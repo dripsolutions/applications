@@ -50,6 +50,7 @@
     ["MasterReaper111"]      = true, -- 08/09 até 08/01
     ["LuisCarlos_lcs"]       = true, -- 08/09 até 11/09
     ["pabinhoplay"]          = true, -- 1 dia
+    ["ixi362"]               = true, -- 3 dias 08/09 11/09
     ["Theozinhodomorro"]     = true, -- 08/09 até 11/09
     ["ueuruirue"]            = true, -- 08/09 até 11/09
 
