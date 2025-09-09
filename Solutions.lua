@@ -12,15 +12,12 @@
     --  Tempos Estimados 📌
     ["nz_stylekkj"]          = true, -- 07/09 até 11/09
     ["kheuj2bsqjhwhwy"]      = true, -- 07/09 até 10/09
-    ["Aliban_32"]            = true, -- 05/09 até 08/09
     ["papanoelpro12342"]     = true, -- 04/09 até 20/09
     ["spyderSammdy"]         = true, -- 03/09 até 11/09
-    ["XxRE1xX3"]             = true, -- 03/09 até 07/09
     ["ERIK90909082"]         = true, -- 02/09 até 01/11
     ["toto12348802"]         = true, -- 30/08 até 15/09
     ["x_P3drox"]             = true, -- 30/08 até 16/09
     ["mendrake_253"]         = true, -- 30/08 até 23/09
-    ["MiguelBert2014"]       = true, -- 30/08 até 08/09
     ["lucas02sjsj"]          = true, -- 14/08 até 14/09
     ["cleitinho_adm"]        = true, -- 15/08 até 15/09
     ["Miguel_kiwi777"]       = true, -- 18/08 até 18/09
