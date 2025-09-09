@@ -76,6 +76,7 @@
     ["sparta9842"]           = true,
     ["MENOR_RSA"]            = true,
     ["dvdfy4wfiyf"]          = true,
+    ["sainonsutili"]         = true,
 }
 
 return allowedUsers
