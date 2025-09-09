@@ -51,6 +51,7 @@
     ["LuisCarlos_lcs"]       = true, -- 08/09 até 11/09
     ["pabinhoplay"]          = true, -- 1 dia
     ["Theozinhodomorro"]     = true, -- 08/09 até 11/09
+    ["ueuruurue"]            = true, -- 08/09 até 11/09
 
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
