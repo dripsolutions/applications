@@ -10,7 +10,7 @@
     ["magnusfxp"]            = true,
 
     --  Tempos Estimados 📌
-    ["Ismael2012856"]          = true, -- 09/09 até 12/09
+    ["Ismael2012856"]        = true, -- 09/09 até 12/09
     ["nz_stylekkj"]          = true, -- 07/09 até 11/09
     ["kheuj2bsqjhwhwy"]      = true, -- 07/09 até 10/09
     ["papanoelpro12342"]     = true, -- 04/09 até 20/09
