@@ -51,6 +51,7 @@
     ["brawlsolao"]           = true, -- 09/09 12/09
     ["SADX5434"]             = true, -- 09/09 12/09   
     ["Gustavo194615"]        = true, -- 10/09 10/10
+    ["darkness_SupremoAWJ"]  = true, -- 10/09 10/11
  --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
