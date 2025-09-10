@@ -35,7 +35,6 @@
     ["iwejjbsb1"]            = true, -- 01/09 até 01/01/2026
     ["mandrake07970"]        = true, -- 03/09 até 23/09
     ["biel_mrqs"]            = true, -- 06/09 até 06/01
-    ["BloxLOUX_YT"]          = true, -- 06/09 até 09/09
     ["CRIA027K"]             = true, -- 07/09 até 19/09
     ["berluiz2001"]          = true, -- 07/09 até 07/11
     ["12etdfgj"]             = true, -- 07/09 até 14/09
@@ -44,7 +43,6 @@
     ["rylyn15243w0"]         = true, -- 07/09 até 10/09
     ["MasterReaper111"]      = true, -- 08/09 até 08/01
     ["LuisCarlos_lcs"]       = true, -- 08/09 até 11/09
-    ["pabinhoplay"]          = true, -- 1 dia
     ["ixi362"]               = true, -- 3 dias 08/09 11/09
     ["Theozinhodomorro"]     = true, -- 08/09 até 11/09
     ["ueuruirue"]            = true, -- 08/09 até 11/09
