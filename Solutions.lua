@@ -53,6 +53,7 @@
     ["pepsi_cocacola705"]        = true, -- 10/09 10/10
     ["darkness_SupremoAWJ"]  = true, -- 10/09 10/11
     ["izaac92288"]           = true, -- 10/09 30/09
+    ["spreiddent4"]          = true, -- 10/09 13/09
  --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
