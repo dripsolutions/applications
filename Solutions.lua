@@ -39,8 +39,6 @@
     ["berluiz2001"]          = true, -- 07/09 até 07/11
     ["12etdfgj"]             = true, -- 07/09 até 14/09
     ["ggmax10t"]             = true, -- 07/09 até 07/10
-    ["mellu107"]             = true, -- 07/09 até 10/09
-    ["rylyn15243w0"]         = true, -- 07/09 até 10/09
     ["MasterReaper111"]      = true, -- 08/09 até 08/01
     ["LuisCarlos_lcs"]       = true, -- 08/09 até 11/09
     ["ixi362"]               = true, -- 3 dias 08/09 11/09
@@ -51,7 +49,8 @@
     ["KNZINN_NOVAMENTE1"]    = true, -- 08/08 11/09
     ["Henrique8844"]         = true, -- 09/09 12/09     
     ["brawlsolao"]           = true, -- 09/09 12/09
-    ["SADX5434"]             = true, -- 09/09 12/09  
+    ["SADX5434"]             = true, -- 09/09 12/09   
+    ["Gustavo194615"]        = true, -- 10/09 10/10
  --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
