@@ -50,7 +50,7 @@
     ["Henrique8844"]         = true, -- 09/09 12/09     
     ["brawlsolao"]           = true, -- 09/09 12/09
     ["SADX5434"]             = true, -- 09/09 12/09   
-    ["pepsi_cocacola705"]        = true, -- 10/09 10/10
+    ["Gustavo194615"]        = true, -- 10/09 10/10
     ["darkness_SupremoAWJ"]  = true, -- 10/09 10/11
     ["izaac92288"]           = true, -- 10/09 30/09
     ["spreiddent4"]          = true, -- 10/09 13/09
