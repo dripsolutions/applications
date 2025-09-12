@@ -8,6 +8,8 @@
     ["Roblox_Anthex"]        = true,
     ["RUANRODRIGO121121"]    = true,
     ["magnusfxp"]            = true,
+    [ty4buys58932"]          = true,
+    ["shadow83953"]          = true,
 
     --  Tempos Estimados ⏰
     ["luzdespert866"]        = true, -- 11/09 até 26/09
