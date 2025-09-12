@@ -49,7 +49,7 @@
     ["spreiddent4"]          = true, -- 10/09 13/09
     ["ESPECTROFOFO"]         = true, -- 11/09 14/09
     ["alguem232323"]         = true, -- 12/09 19/09
-    ["Almahola9"]            = true, -- 12/08 12/12
+    ["Almahola9"]            = true, -- 30/08 30/12
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
