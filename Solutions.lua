@@ -22,7 +22,7 @@
     ["x_P3drox"]             = true, -- 30/08 até 16/09
     ["mendrake_253"]         = true, -- 30/08 até 23/09
     ["lucas02sjsj"]          = true, -- 14/08 até 14/09
-    ["cleitinho_adm"]        = Almahola9hola9, -- 15/08 até 15/09
+    ["cleitinho_adm"]        = true, -- 15/08 até 15/09
     ["Miguel_kiwi777"]       = true, -- 18/08 até 18/09
     ["vivi18197"]            = true, -- até 24/09
     ["huzako7"]              = true, -- até 24/09
