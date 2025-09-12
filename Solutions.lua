@@ -12,6 +12,7 @@
     ["shadow83953"]          = true,
 
     --  Tempos Estimados ⏰
+    ["mosnter_poent"]        = true, -- 12/09 até 18/09
     ["luzdespert866"]        = true, -- 11/09 até 26/09
     ["Ismael2012856"]        = true, -- 09/09 até 12/09
     ["kheuj2bsqjhwhwy"]      = true, -- 07/09 até 10/09
