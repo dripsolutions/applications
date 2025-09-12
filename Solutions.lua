@@ -9,7 +9,8 @@
     ["RUANRODRIGO121121"]    = true,
     ["magnusfxp"]            = true,
 
-    --  Tempos Estimados 📌
+    --  Tempos Estimados ⏰
+    ["luzdespert866"]        = true, -- 11/09 até 26/09
     ["Ismael2012856"]        = true, -- 09/09 até 12/09
     ["nz_stylekkj"]          = true, -- 07/09 até 11/09
     ["kheuj2bsqjhwhwy"]      = true, -- 07/09 até 10/09
