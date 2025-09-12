@@ -50,6 +50,7 @@
     ["ESPECTROFOFO"]         = true, -- 11/09 14/09
     ["alguem232323"]         = true, -- 12/09 19/09
     ["almahola9"]            = true, -- 30/08 30/12
+    ["Poderoso_nz0"]         = true, -- 12/09 15/09
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
