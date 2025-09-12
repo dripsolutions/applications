@@ -22,7 +22,7 @@
     ["x_P3drox"]             = true, -- 30/08 até 16/09
     ["mendrake_253"]         = true, -- 30/08 até 23/09
     ["lucas02sjsj"]          = true, -- 14/08 até 14/09
-    ["cleitinho_adm"]        = true, -- 15/08 até 15/09
+    ["cleitinho_adm"]        = Almahola9hola9, -- 15/08 até 15/09
     ["Miguel_kiwi777"]       = true, -- 18/08 até 18/09
     ["vivi18197"]            = true, -- até 24/09
     ["huzako7"]              = true, -- até 24/09
@@ -49,7 +49,7 @@
     ["spreiddent4"]          = true, -- 10/09 13/09
     ["ESPECTROFOFO"]         = true, -- 11/09 14/09
     ["alguem232323"]         = true, -- 12/09 19/09
-    ["Almahola9"]            = true, -- 30/08 30/12
+    ["almahola9"]            = true, -- 30/08 30/12
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
