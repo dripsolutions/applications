@@ -5,7 +5,7 @@
     ["Aloysioerick"]         = true, -- chiagoremastered
 
     --  Moderadores 📍
-    ["CheaterUnknowLocal"]   = true,
+    ["CheaterUnknowlocal"]   = true,
     ["Roblox_Anthex"]        = true,
     ["RUANRODRIGO121121"]    = true,
     ["magnusfxp"]            = true,
