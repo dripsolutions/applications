@@ -12,10 +12,8 @@
     --  Tempos Estimados ⏰
     ["luzdespert866"]        = true, -- 11/09 até 26/09
     ["Ismael2012856"]        = true, -- 09/09 até 12/09
-    ["nz_stylekkj"]          = true, -- 07/09 até 11/09
     ["kheuj2bsqjhwhwy"]      = true, -- 07/09 até 10/09
     ["papanoelpro12342"]     = true, -- 04/09 até 20/09
-    ["spyderSammdy"]         = true, -- 03/09 até 11/09
     ["ERIK90909082"]         = true, -- 02/09 até 01/11
     ["toto12348802"]         = true, -- 30/08 até 15/09
     ["x_P3drox"]             = true, -- 30/08 até 16/09
@@ -32,22 +30,13 @@
     ["Gabrielmilitar_6"]     = true, -- 27/08 até 27/12
     ["Riggs_scott"]          = true, -- 26/08 até 26/09
     ["01Xxx09"]              = true, -- 29/08 até 12/09
-    ["almahola9"]            = true, -- 29/08 até 21/01/2026
-    ["iwejjbsb1"]            = true, -- 01/09 até 01/01/2026
     ["mandrake07970"]        = true, -- 03/09 até 23/09
     ["biel_mrqs"]            = true, -- 06/09 até 06/01
     ["CRIA027K"]             = true, -- 07/09 até 19/09
     ["berluiz2001"]          = true, -- 07/09 até 07/11
     ["12etdfgj"]             = true, -- 07/09 até 14/09
     ["ggmax10t"]             = true, -- 07/09 até 07/10
-    ["MasterReaper111"]      = true, -- 08/09 até 08/01
-    ["LuisCarlos_lcs"]       = true, -- 08/09 até 11/09
-    ["ixi362"]               = true, -- 3 dias 08/09 11/09
-    ["Theozinhodomorro"]     = true, -- 08/09 até 11/09
-    ["ueuruirue"]            = true, -- 08/09 até 11/09
-    ["Reibaxaid2"]           = true, -- 08/09 até 11/09
-    ["cantanguandi2"]        = true, -- 08/09 11/09
-    ["KNZINN_NOVAMENTE1"]    = true, -- 08/08 11/09
+    ["MasterReaper111"]      = true, -- 08/09 até 08/11
     ["Henrique8844"]         = true, -- 09/09 12/09     
     ["brawlsolao"]           = true, -- 09/09 12/09
     ["SADX5434"]             = true, -- 09/09 12/09   
@@ -56,7 +45,7 @@
     ["izaac92288"]           = true, -- 10/09 30/09
     ["spreiddent4"]          = true, -- 10/09 13/09
     ["ESPECTROFOFO"]         = true, -- 11/09 14/09
- --  Permanentes Uses 🍒
+    --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
     ["shotxz_cria"]          = true,
