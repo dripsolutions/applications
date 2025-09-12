@@ -8,7 +8,7 @@
     ["Roblox_Anthex"]        = true,
     ["RUANRODRIGO121121"]    = true,
     ["magnusfxp"]            = true,
-    [ty4buys58932"]          = true,
+    ["ty4buys58932"]          = true,
     ["shadow83953"]          = true,
 
     --  Tempos Estimados ⏰
