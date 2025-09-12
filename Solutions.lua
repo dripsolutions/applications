@@ -15,7 +15,6 @@
     ["mosnter_poent"]        = true, -- 12/09 até 18/09
     ["luzdespert866"]        = true, -- 11/09 até 26/09
     ["Ismael2012856"]        = true, -- 09/09 até 12/09
-    ["kheuj2bsqjhwhwy"]      = true, -- 07/09 até 10/09
     ["papanoelpro12342"]     = true, -- 04/09 até 20/09
     ["ERIK90909082"]         = true, -- 02/09 até 01/11
     ["toto12348802"]         = true, -- 30/08 até 15/09
