@@ -13,7 +13,7 @@
     ["shadow83953"]          = true,
 
     --  Tempos Estimados ⏰
-    ["firecrowblackice"]        = true, -- 13/09 até 03/10
+    ["firecrowblackice"]     = true, -- 13/09 até 03/10
     ["mosnter_poent"]        = true, -- 12/09 até 18/09
     ["luzdespert866"]        = true, -- 11/09 até 26/09
     ["papanoelpro12342"]     = true, -- 04/09 até 20/09
