@@ -15,7 +15,6 @@
     --  Tempos Estimados ⏰
     ["mosnter_poent"]        = true, -- 12/09 até 18/09
     ["luzdespert866"]        = true, -- 11/09 até 26/09
-    ["Ismael2012856"]        = true, -- 09/09 até 12/09
     ["papanoelpro12342"]     = true, -- 04/09 até 20/09
     ["ERIK90909082"]         = true, -- 02/09 até 01/11
     ["toto12348802"]         = true, -- 30/08 até 15/09
@@ -32,17 +31,13 @@
     ["twelo_zinha3"]         = true, -- 26/08 até 26/09
     ["Gabrielmilitar_6"]     = true, -- 27/08 até 27/12
     ["Riggs_scott"]          = true, -- 26/08 até 26/09
-    ["01Xxx09"]              = true, -- 29/08 até 12/09
     ["mandrake07970"]        = true, -- 03/09 até 23/09
-    ["biel_mrqs"]            = true, -- 06/09 até 06/01
+    ["biel_mrqs"]            = true, -- 06/09 até 06/11
     ["CRIA027K"]             = true, -- 07/09 até 19/09
     ["berluiz2001"]          = true, -- 07/09 até 07/11
     ["12etdfgj"]             = true, -- 07/09 até 14/09
     ["ggmax10t"]             = true, -- 07/09 até 07/10
-    ["MasterReaper111"]      = true, -- 08/09 até 08/11
-    ["Henrique8844"]         = true, -- 09/09 12/09     
-    ["brawlsolao"]           = true, -- 09/09 12/09
-    ["SADX5434"]             = true, -- 09/09 12/09   
+    ["MasterReaper111"]      = true, -- 08/09 até 08/11  
     ["Gustavo194615"]        = true, -- 10/09 10/10
     ["darkness_SupremoAWJ"]  = true, -- 10/09 10/11
     ["izaac92288"]           = true, -- 10/09 30/09
