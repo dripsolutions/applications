@@ -74,6 +74,7 @@
     ["MENOR_RSA"]            = true,
     ["dvdfy4wfiyf"]          = true,
     ["sainonsutili"]         = true,
+    ["Rafael_GMR0687"]       = true,
 }
 
 return allowedUsers
