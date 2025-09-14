@@ -21,7 +21,6 @@
     ["toto12348802"]         = true, -- 30/08 até 15/09
     ["x_P3drox"]             = true, -- 30/08 até 16/09
     ["mendrake_253"]         = true, -- 30/08 até 23/09
-    ["lucas02sjsj"]          = true, -- 14/08 até 14/09
     ["cleitinho_adm"]        = true, -- 15/08 até 15/09
     ["Miguel_kiwi777"]       = true, -- 18/08 até 18/09
     ["vivi18197"]            = true, -- até 24/09
@@ -36,14 +35,11 @@
     ["biel_mrqs"]            = true, -- 06/09 até 06/11
     ["CRIA027K"]             = true, -- 07/09 até 19/09
     ["berluiz2001"]          = true, -- 07/09 até 07/11
-    ["12etdfgj"]             = true, -- 07/09 até 14/09
     ["ggmax10t"]             = true, -- 07/09 até 07/10
     ["MasterReaper111"]      = true, -- 08/09 até 08/11  
     ["Gustavo194615"]        = true, -- 10/09 10/10
     ["darkness_SupremoAWJ"]  = true, -- 10/09 10/11
     ["izaac92288"]           = true, -- 10/09 30/09
-    ["spreiddent4"]          = true, -- 10/09 13/09
-    ["ESPECTROFOFO"]         = true, -- 11/09 14/09
     ["alguem232323"]         = true, -- 12/09 19/09
     ["almahola9"]            = true, -- 30/08 30/12
     ["Poderoso_nz0"]         = true, -- 12/09 15/09
