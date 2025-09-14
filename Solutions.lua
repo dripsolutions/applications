@@ -50,7 +50,6 @@
     ["JellyIceZero201673"]   = true, -- 12/09 15/09
     ["pepsi_cocacola705"]    = true, -- 13/09 16/09
     ["ueuruirue"]            = true, -- 14/09 29/09
-    ["gojo_22796"]                     = true,
 
 
     --  Permanentes Uses 🍒
@@ -80,6 +79,7 @@
     ["dvdfy4wfiyf"]          = true,
     ["sainonsutili"]         = true,
     ["Rafael_GMR0687"]       = true,
+    ["gojo_22796"]           = true,
 }
 
 return allowedUsers
