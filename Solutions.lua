@@ -49,7 +49,10 @@
     ["Poderoso_nz0"]         = true, -- 12/09 15/09
     ["JellyIceZero201673"]   = true, -- 12/09 15/09
     ["pepsi_cocacola705"]    = true, -- 13/09 16/09
-    ["ueuruirue"] =          = true, -- 14/09 29/09
+    ["ueuruirue"]            = true, -- 14/09 29/09
+    ["gojo_22796"]                     = true,
+
+
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
