@@ -46,7 +46,7 @@
     ["pepsi_cocacola705"]    = true, -- 13/09 16/09
     ["ueuruirue"]            = true, -- 14/09 29/09
     ["R190oo"]               = true, -- 15/09 15/11
-    ["Bby_blessed01"]               = true, -- 15/09 22/09
+    ["Bby_blessed01"]        = true, -- 15/09 22/09
 
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
