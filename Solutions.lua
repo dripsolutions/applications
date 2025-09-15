@@ -1,8 +1,6 @@
  allowedUsers = {
     --  Criadores de conteúdo 🔮
-    ["KNZINN_NOVAMENTE"]     = true, -- novo divulgador
-    ["FFS1L7d3"]             = true, -- novo divulgador
-    ["Aloysioerick"]         = true, -- chiagoremastered
+ 
 
     --  Moderadores 📍
     ["CheaterUnknowlocal"]   = true,
@@ -47,7 +45,7 @@
     ["JellyIceZero201673"]   = true, -- 12/09 15/09
     ["pepsi_cocacola705"]    = true, -- 13/09 16/09
     ["ueuruirue"]            = true, -- 14/09 29/09
-
+    ["R190oo"]               = true, -- 15/09 15/11
 
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
