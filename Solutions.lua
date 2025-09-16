@@ -48,7 +48,8 @@
     ["R190oo"]               = true, -- 15/09 15/11
     ["Bby_blessed01"]        = true, -- 15/09 22/09
     ["tubers93_10971"]       = true, -- 16/09 23/09 
-    ["Lawliet_BR007"]        = true, -- 16/09 06/10
+    ["Lawliet_BR007"]        = true, -- 16/09 06/10 
+    ["cort_perm"]            = true, -- 16/09 19/09  
 
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
