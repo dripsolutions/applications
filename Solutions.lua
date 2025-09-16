@@ -29,7 +29,7 @@
     ["woonz_x"]              = true, -- até 24/09
     ["twelo_zinha3"]         = true, -- 26/08 até 26/09
     ["Gabrielmilitar_6"]     = true, -- 27/08 até 27/12
-    ["Riggs_scott"]          = true, -- 26/08 até 26/09
+    ["Riggs_scott"]          = true, -- 26/08 até 16/10
     ["mandrake07970"]        = true, -- 03/09 até 23/09
     ["biel_mrqs"]            = true, -- 06/09 até 06/11
     ["CRIA027K"]             = true, -- 07/09 até 19/09
