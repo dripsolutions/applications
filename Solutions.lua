@@ -17,8 +17,6 @@
     ["luzdespert866"]        = true, -- 11/09 até 26/09
     ["papanoelpro12342"]     = true, -- 04/09 até 20/09
     ["ERIK90909082"]         = true, -- 02/09 até 01/11
-    ["toto12348802"]         = true, -- 30/08 até 15/09
-    ["x_P3drox"]             = true, -- 30/08 até 16/09
     ["mendrake_253"]         = true, -- 30/08 até 23/09
     ["cleitinho_adm"]        = true, -- 15/08 até 15/09
     ["Miguel_kiwi777"]       = true, -- 18/08 até 18/09
@@ -41,15 +39,13 @@
     ["izaac92288"]           = true, -- 10/09 30/09
     ["alguem232323"]         = true, -- 12/09 19/09
     ["almahola9"]            = true, -- 30/08 30/12
-    ["Poderoso_nz0"]         = true, -- 12/09 15/09
-    ["JellyIceZero201673"]   = true, -- 12/09 15/09
-    ["pepsi_cocacola705"]    = true, -- 13/09 16/09
     ["ueuruirue"]            = true, -- 14/09 29/09
     ["R190oo"]               = true, -- 15/09 15/11
     ["Bby_blessed01"]        = true, -- 15/09 22/09
     ["tubers93_10971"]       = true, -- 16/09 23/09 
     ["Lawliet_BR007"]        = true, -- 16/09 06/10 
-    ["cort_perm"]            = true, -- 16/09 19/09  
+    ["cort_perm"]            = true, -- 16/09 19/09
+    ["richarlyssonx"]        = true, -- 17/09 20/09  
 
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
