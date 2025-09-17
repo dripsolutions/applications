@@ -79,6 +79,7 @@
     ["sainonsutili"]         = true,
     ["Rafael_GMR0687"]       = true,
     ["gojo_22796"]           = true,
+    ["cantanguandi2"]        = true,
 }
 
 return allowedUsers
