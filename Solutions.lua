@@ -46,7 +46,7 @@
     ["Lawliet_BR007"]        = true, -- 16/09 06/10 
     ["cort_perm"]            = true, -- 16/09 19/09
     ["richarlyssonx"]        = true, -- 17/09 20/09  
-
+    ["kgdfh6"]               = true, -- 17/09 07/10
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
