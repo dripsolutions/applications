@@ -47,6 +47,7 @@
     ["cort_perm"]            = true, -- 16/09 19/09
     ["richarlyssonx"]        = true, -- 17/09 20/09  
     ["kgdfh6"]               = true, -- 17/09 07/10
+    ["Comunidade_6"]         = true, -- 17/09 20/09
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
