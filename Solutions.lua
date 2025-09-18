@@ -13,13 +13,10 @@
     --  Tempos Estimados ⏰
     ["Orrdaad"]              = true, -- 14/09 até 21/09
     ["firecrowblackice"]     = true, -- 13/09 até 03/10
-    ["mosnter_poent"]        = true, -- 12/09 até 18/09
     ["luzdespert866"]        = true, -- 11/09 até 26/09
     ["papanoelpro12342"]     = true, -- 04/09 até 20/09
     ["ERIK90909082"]         = true, -- 02/09 até 01/11
     ["mendrake_253"]         = true, -- 30/08 até 23/09
-    ["cleitinho_adm"]        = true, -- 15/08 até 15/09
-    ["Miguel_kiwi777"]       = true, -- 18/08 até 18/09
     ["vivi18197"]            = true, -- até 24/09
     ["huzako7"]              = true, -- até 24/09
     ["BLSOLTEIRO"]           = true, -- até 21/09
