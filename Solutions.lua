@@ -1,6 +1,6 @@
  allowedUsers = {
     --  Criadores de conteúdo 🔮
- 
+    ["Gustavo_344788"]       = true,
 
     --  Moderadores 📍
     ["CheaterUnknowlocal"]   = true,
