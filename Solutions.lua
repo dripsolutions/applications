@@ -34,7 +34,6 @@
     ["Gustavo194615"]        = true, -- 10/09 10/10
     ["darkness_SupremoAWJ"]  = true, -- 10/09 10/11
     ["izaac92288"]           = true, -- 10/09 30/09
-    ["alguem232323"]         = true, -- 12/09 19/09
     ["almahola9"]            = true, -- 30/08 30/12
     ["ueuruirue"]            = true, -- 14/09 29/09
     ["R190oo"]               = true, -- 15/09 15/11
@@ -49,7 +48,8 @@
     ["vteteus"]              = true, -- 18/09 25/09
     ["JohnnyOPXC"]           = true, -- 18/09 21/09
     ["saitama9rsm"]          = true, -- 18/09 25/09
-    ["frentesqteve"]         = true, -- 18/09 21/09
+    ["frentesqteve"]         = true, -- 18/09 21/09 
+    ["Everton9973"]          = true, -- 19/09 22/09
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
