@@ -51,6 +51,7 @@
     ["frentesqteve"]         = true, -- 18/09 21/09 
     ["Everton9973"]          = true, -- 19/09 22/09 
     ["peixebometop"]         = true, -- 19/09 09/10 
+    ["brennolindaoel"]       = true, -- 19/09 22/10
     ["Chris410"]             = true, -- 19/09 09/10
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
