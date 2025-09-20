@@ -81,6 +81,7 @@
     ["Rafael_GMR0687"]       = true,
     ["gojo_22796"]           = true,
     ["cantanguandi2"]        = true,
+    ["REI_GAMER41808"]       = true,
 }
 
 return allowedUsers
