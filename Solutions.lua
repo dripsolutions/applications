@@ -53,7 +53,7 @@
     ["peixebometop"]         = true, -- 19/09 09/10 
     ["brennolindaoel"]       = true, -- 19/09 22/10
     ["chris410"]             = true, -- 19/09 09/10
-    ["hhgfffrgffggf"]        = true, -- 20/09 23/09
+    ["Hhgfffrgffggf"]        = true, -- 20/09 23/09
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
