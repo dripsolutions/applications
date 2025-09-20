@@ -83,6 +83,7 @@
     ["gojo_22796"]           = true,
     ["cantanguandi2"]        = true,
     ["REI_GAMER41808"]       = true,
+    ["CaoHieu_32953"]        = true,
 }
 
 return allowedUsers
