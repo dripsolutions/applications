@@ -9,6 +9,7 @@
     ["magnusfxp"]            = true,
     ["ty4buys58932"]         = true,
     ["shadow83953"]          = true,
+    ["scout7ixs"]            = true,
 
     --  Tempos Estimados ⏰
     ["danielhx015"]          = true, -- 20/09 22/09
