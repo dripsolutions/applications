@@ -1,13 +1,13 @@
-----------///// PAINEL ADMIN /////------------
+----------///// PAINEL-ADMIN /////------------
 
 
 allowedUsers = {
-    ----------///// Criadores de conteúdo /////------------           
+    ----------///// TIK-TOK /////------------           
     ["Gustavo_344788"]       = true,
 
 
     
-      ----------///// Moderadores /////------------   
+      ----------///// MODDERS /////------------   
     ["CheaterUnknowlocal"]   = true,
     ["Roblox_Anthex"]        = true,
     ["RUANRODRIGO121121"]    = true,
@@ -16,7 +16,7 @@ allowedUsers = {
     ["shadow83953"]          = true,
     ["scout7ixs"]            = true,
     
-  ----------///// Tempos Estimados /////------------   
+  ----------///// TEMPORARIOS /////------------   
     ["danielhx015"]          = true, -- 20/09 22/09
     ["diuduivh"]              = true, -- 21/09 22/09
     ["firecrowblackice"]     = true, -- 13/09 03/10
@@ -73,7 +73,7 @@ allowedUsers = {
 
 
 
-   ----------///// Permanentes Uses /////------------   
+   ----------///// PERMANENTE /////------------   
     ["botinha_W"]            = true,
     ["shotxz_cria"]          = true,
     ["Victhomxd"]            = true,
