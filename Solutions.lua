@@ -1,9 +1,13 @@
-----------///// PAINEL ADMIN /////------------   
+----------///// PAINEL ADMIN /////------------
+
+
 allowedUsers = {
-    --  Criadores de conteúdo            
+    ----------///// Criadores de conteúdo /////------------           
     ["Gustavo_344788"]       = true,
 
-    --  Moderadores 📍
+
+    
+      ----------///// Moderadores /////------------   
     ["CheaterUnknowlocal"]   = true,
     ["Roblox_Anthex"]        = true,
     ["RUANRODRIGO121121"]    = true,
@@ -11,8 +15,8 @@ allowedUsers = {
     ["ty4buys58932"]         = true,
     ["shadow83953"]          = true,
     ["scout7ixs"]            = true,
-
-    --  Tempos Estimados ⏰
+    
+  ----------///// Tempos Estimados /////------------   
     ["danielhx015"]          = true, -- 20/09 22/09
     ["diuduivh"]              = true, -- 21/09 22/09
     ["firecrowblackice"]     = true, -- 13/09 03/10
@@ -22,8 +26,6 @@ allowedUsers = {
     ["mendrake_253"]         = true, -- 30/08 23/09
     ["vivi18197"]            = true, -- até 24/09
     ["huzako7"]              = true, -- até 24/09
---    ["BLSOLTEIRO"]           = true, -- até 21/09
---    ["kaiserfogo9"]          = true, -- até 21/09
     ["woonz_x"]              = true, -- até 24/09
     ["twelo_zinha3"]         = true, -- 26/08 26/09
     ["Gabrielmilitar_6"]     = true, -- 27/08 27/12
@@ -49,13 +51,9 @@ allowedUsers = {
     ["Comunidade_6"]         = true, -- 17/09 20/09
     ["vendasbraint"]         = true, -- 21/09 24/09
     ["vteteus"]              = true, -- 18/09 25/09
---    ["JohnnyOPXC"]           = true, -- 18/09 21/09
     ["saitama9rsm"]          = true, -- 18/09 25/09
---    ["frentesqteve"]         = true, -- 18/09 21/09 
     ["aiyazhal3451"]          = true, -- 21/09 24/09 
---    ["peixebometop"]         = true, -- 19/09 09/10 
     ["brennolindaoel"]       = true, -- 19/09 22/10
---    ["chris410"]             = true, -- 19/09 09/10
     ["Hhgfffrgffggf"]        = true, -- 20/09 23/09
     ["kingg_0750"]           = true, -- 20/09 23/09
     ["SX_THIAGOX7"]          = true, -- 20/09 23/09
@@ -74,8 +72,7 @@ allowedUsers = {
 
 
 
- 
-    --  Permanentes Uses
+   ----------///// Permanentes Uses /////------------   
     ["botinha_W"]            = true,
     ["shotxz_cria"]          = true,
     ["Victhomxd"]            = true,
