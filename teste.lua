@@ -1,5 +1,4 @@
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/realgengar/Library/refs/heads/main/remake.lua"))()
-
 local Window = redzlib:MakeWindow({
     Title = "kid begalitas hub",
     SubTitle = "Farma aura",
@@ -30,9 +29,33 @@ Tab2:AddButton({
 })
 
 
+Tab2:AddSlider({
+    Name = "walkSpeed",
+    Min = 5,
+    Max = 500,
+    Default = 45,
+    Callback = function(value)
+        speeddrip = value
+    end
+})
+Tab2:AddToggle({
+    Name = "ativa walk",
+    Default = false,
+    Callback = function(value)
+    _G.atidrip = value
+       if not value then 
+          if LocalPlayer.Character and LocalPlayer.Character.Humanoid then
+             LocalPlayer.Character.Humanoid.WalkSpeed = originalWalkSpeed
+             end
+        end
+    end
+})
 
-
-
+RunService.RenderStepped:Connect(function()
+     id _G.atidrip and LocalPlayer.Character and LocalPlayer.Character.Humaoid then
+    LocalPlayer.Character.Humanoid.WalkSpeed =  speeddrip
+ end        
+end)
 
 
 
