@@ -63,6 +63,7 @@
     ["akimanachamana"]       = true, -- 21/09 28/09
     ["scoobydoolido"]        = true, -- 21/09 24/09
     ["CoveFred"]             = true, -- 21/09 24/09
+    [""]                     = true, -- 21/09 26/09
  
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
