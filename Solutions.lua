@@ -70,6 +70,7 @@ allowedUsers = {
     ["Aiyazha3451"]          = true, -- 21/09 24/09
     ["victorgab0404"]        = true, -- 21/09 24/09
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
+    ["mandrake07970"]        = true, -- 21/09 28/09
 
 
 
