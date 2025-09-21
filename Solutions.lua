@@ -59,6 +59,7 @@
     ["SX_THIAGOX7"]          = true, -- 20/09 23/09
     ["max13434674"]          = true, -- 20/09 23/09
     ["baianim940"]           = true, -- 20/09 23/09
+    ["Kenned_Thiago"]        = true, -- 21/09 24/09
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
