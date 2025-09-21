@@ -1,5 +1,5 @@
  allowedUsers = {
-    --  Criadores de conteúdo 🔮
+    --  Criadores de conteúdo
     ["Gustavo_344788"]       = true,
 
     --  Moderadores 📍
@@ -11,27 +11,27 @@
     ["shadow83953"]          = true,
 
     --  Tempos Estimados ⏰
-    ["danielhx015"]          = true, -- 20/09 ate 22/09
-    ["Orrdaad"]              = true, -- 14/09 até 21/09
-    ["firecrowblackice"]     = true, -- 13/09 até 03/10
-    ["luzdespert866"]        = true, -- 11/09 até 26/09
-    ["papanoelpro12342"]     = true, -- 04/09 até 20/09
-    ["ERIK90909082"]         = true, -- 02/09 até 01/11
-    ["mendrake_253"]         = true, -- 30/08 até 23/09
+    ["danielhx015"]          = true, -- 20/09 22/09
+ --   ["Orrdaad"]              = true, -- 14/09 21/09
+    ["firecrowblackice"]     = true, -- 13/09 03/10
+    ["luzdespert866"]        = true, -- 11/09 26/09
+    ["papanoelpro12342"]     = true, -- 04/09 20/09
+    ["ERIK90909082"]         = true, -- 02/09 01/11
+    ["mendrake_253"]         = true, -- 30/08 23/09
     ["vivi18197"]            = true, -- até 24/09
     ["huzako7"]              = true, -- até 24/09
-    ["BLSOLTEIRO"]           = true, -- até 21/09
-    ["kaiserfogo9"]          = true, -- até 21/09
+--    ["BLSOLTEIRO"]           = true, -- até 21/09
+--    ["kaiserfogo9"]          = true, -- até 21/09
     ["woonz_x"]              = true, -- até 24/09
-    ["twelo_zinha3"]         = true, -- 26/08 até 26/09
-    ["Gabrielmilitar_6"]     = true, -- 27/08 até 27/12
-    ["Riggs_scott"]          = true, -- 26/08 até 16/10
-    ["mandrake07970"]        = true, -- 03/09 até 23/09
-    ["biel_mrqs"]            = true, -- 06/09 até 06/11
-    ["CRIA027K"]             = true, -- 07/09 até 19/09
-    ["berluiz2001"]          = true, -- 07/09 até 07/11
-    ["ggmax10t"]             = true, -- 07/09 até 07/10
-    ["MasterReaper111"]      = true, -- 08/09 até 08/11  
+    ["twelo_zinha3"]         = true, -- 26/08 26/09
+    ["Gabrielmilitar_6"]     = true, -- 27/08 27/12
+    ["Riggs_scott"]          = true, -- 26/08 16/10
+    ["mandrake07970"]        = true, -- 03/09 23/09
+    ["biel_mrqs"]            = true, -- 06/09 06/11
+    ["CRIA027K"]             = true, -- 07/09 19/09
+    ["berluiz2001"]          = true, -- 07/09 07/11
+    ["ggmax10t"]             = true, -- 07/09 07/10
+    ["MasterReaper111"]      = true, -- 08/09 08/11  
     ["Gustavo194615"]        = true, -- 10/09 10/10
     ["darkness_SupremoAWJ"]  = true, -- 10/09 10/11
     ["izaac92288"]           = true, -- 10/09 30/09
@@ -47,13 +47,13 @@
     ["Comunidade_6"]         = true, -- 17/09 20/09
     ["vendasbraint"]         = true, -- 17/09 20/09
     ["vteteus"]              = true, -- 18/09 25/09
-    ["JohnnyOPXC"]           = true, -- 18/09 21/09
+--    ["JohnnyOPXC"]           = true, -- 18/09 21/09
     ["saitama9rsm"]          = true, -- 18/09 25/09
-    ["frentesqteve"]         = true, -- 18/09 21/09 
-    ["Everton9973"]          = true, -- 19/09 22/09 
-    ["peixebometop"]         = true, -- 19/09 09/10 
+--    ["frentesqteve"]         = true, -- 18/09 21/09 
+--    ["Everton9973"]          = true, -- 19/09 22/09 
+--    ["peixebometop"]         = true, -- 19/09 09/10 
     ["brennolindaoel"]       = true, -- 19/09 22/10
-    ["chris410"]             = true, -- 19/09 09/10
+--    ["chris410"]             = true, -- 19/09 09/10
     ["Hhgfffrgffggf"]        = true, -- 20/09 23/09
     ["kingg_0750"]           = true, -- 20/09 23/09
     ["SX_THIAGOX7"]          = true, -- 20/09 23/09
@@ -65,11 +65,9 @@
     ["CoveFred"]             = true, -- 21/09 24/09
     ["tubers93_ofc933"]      = true, -- 21/09 26/09
     ["eo_joao43"]            = true, -- 21/09 24/09
+    ["Breno010L"]            = true, -- 21/09 22/09
     
-    
-    
-    
-    --  Permanentes Uses 🍒
+    --  Permanentes Uses
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
     ["shotxz_cria"]          = true,
