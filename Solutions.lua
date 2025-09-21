@@ -51,7 +51,7 @@
 --    ["JohnnyOPXC"]           = true, -- 18/09 21/09
     ["saitama9rsm"]          = true, -- 18/09 25/09
 --    ["frentesqteve"]         = true, -- 18/09 21/09 
-    ["Aiyazhal3451"]          = true, -- 21/09 24/09 
+    ["aiyazhal3451"]          = true, -- 21/09 24/09 
 --    ["peixebometop"]         = true, -- 19/09 09/10 
     ["brennolindaoel"]       = true, -- 19/09 22/10
 --    ["chris410"]             = true, -- 19/09 09/10
