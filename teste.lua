@@ -1,4 +1,5 @@
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/realgengar/Library/refs/heads/main/remake.lua"))()
+
 local Window = redzlib:MakeWindow({
     Title = "kid begalitas hub",
     SubTitle = "Farma aura",
@@ -21,18 +22,8 @@ Tab2:AddSection("settings farm")
 Tab3:AddSection("settings security")
 
                 ------///function autofarm///-------
- Tab2:AddDropdown({
-    Name = "Method farm",
-    Options = {"drip", "drip", "drip"},
-    Default = "Methods",
-    Callback = function(value)
-        print("tool select:", value)
-    end
-})
-
 Tab2:AddButton({
-    Name = "Executar method",
-    Description = "clique apos seleciona",
+    Name = "Executar script drip",
     Callback = function()
            drip()
     end
