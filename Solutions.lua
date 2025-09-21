@@ -71,8 +71,7 @@ allowedUsers = {
     ["victorgab0404"]        = true, -- 21/09 24/09
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
     ["mandrake07970"]        = true, -- 21/09 28/09
-
-
+    ["Ezman_638"]            = true, -- 21/09 28/09
 
    ----------///// PERMANENTE /////------------   
     ["botinha_W"]            = true,
