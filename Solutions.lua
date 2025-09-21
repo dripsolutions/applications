@@ -64,7 +64,11 @@
     ["scoobydoolido"]        = true, -- 21/09 24/09
     ["CoveFred"]             = true, -- 21/09 24/09
     ["tubers93_ofc933"]      = true, -- 21/09 26/09
- 
+    ["eo_joao43"]            = true, -- 21/09 24/09
+    
+    
+    
+    
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
