@@ -68,7 +68,6 @@
     ["eo_joao43"]            = true, -- 21/09 24/09
     ["Breno010L"]            = true, -- 21/09 22/09
     ["JohnnyOPXC"]            = true, -- 21/09 24/09
-    ["rrrrrrrrrr"]            = true, -- 21/09 24/09
 --   [""]            = true, -- 21/09 22/09
 
 
@@ -104,6 +103,7 @@
     ["REI_GAMER41808"]       = true,
     ["CaoHieu_32953"]        = true,
     ["cameronsDTj746"]       = true, 
+    ["brenardao9"]           = true,
 }
 
 return allowedUsers
