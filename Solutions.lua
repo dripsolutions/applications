@@ -61,6 +61,8 @@
     ["baianim940"]           = true, -- 20/09 23/09
     ["Kenned_Thiago"]        = true, -- 21/09 24/09
     ["akimanachamana"]       = true, -- 21/09 28/09
+    ["soobydoolido"]         = true, -- 21/09 24/09
+ 
     --  Permanentes Uses 🍒
     ["botinha_W"]            = true,
     ["21qxkg"]               = true,
