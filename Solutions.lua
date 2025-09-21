@@ -69,6 +69,7 @@ allowedUsers = {
     ["HBT_QiOzdb9pNL"]       = true, -- as 19hrs
     ["Aiyazha3451"]          = true, -- 21/09 24/09
     ["victorgab0404"]        = true, -- 21/09 24/09
+    ["DFGHGHGHH4"]           = true, -- 21/09 21/10
 
 
 
