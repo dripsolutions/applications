@@ -67,8 +67,8 @@
     ["tubers93_ofc933"]      = true, -- 21/09 26/09
     ["eo_joao43"]            = true, -- 21/09 24/09
     ["Breno010L"]            = true, -- 21/09 22/09
-    ["JohnnyOPXC"]            = true, -- 21/09 24/09
-    ["HBT_QiOzdb9pNL"]            = true, -- as 19hrs
+    ["JohnnyOPXC"]           = true, -- 21/09 24/09
+    ["HBT_QiOzdb9pNL"]       = true, -- as 19hrs
 
 
 
