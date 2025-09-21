@@ -11,6 +11,7 @@
     ["shadow83953"]          = true,
 
     --  Tempos Estimados ⏰
+    ["danielhx015"]          = true, -- 20/09 ate 22/09
     ["Orrdaad"]              = true, -- 14/09 até 21/09
     ["firecrowblackice"]     = true, -- 13/09 até 03/10
     ["luzdespert866"]        = true, -- 11/09 até 26/09
