@@ -1,5 +1,4 @@
-----------///// PAINEL-ADMIN /////------------
-
+----------///// PAINEL-ADMIN /////------------ 
 
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
@@ -7,7 +6,7 @@ allowedUsers = {
 
 
     
-      ----------///// MODDERS /////------------   
+    ----------///// MODDERS /////------------   
     ["CheaterUnknowlocal"]   = true,
     ["Roblox_Anthex"]        = true,
     ["RUANRODRIGO121121"]    = true,
@@ -16,7 +15,7 @@ allowedUsers = {
     ["shadow83953"]          = true,
     ["scout7ixs"]            = true,
     
-  ----------///// TEMPORARIOS /////------------   
+    ----------///// TEMPORARIOS /////------------   
     ["danielhx015"]          = true, -- 20/09 22/09
     ["diuduivh"]              = true, -- 21/09 22/09
     ["firecrowblackice"]     = true, -- 13/09 03/10
