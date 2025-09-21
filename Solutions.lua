@@ -45,7 +45,7 @@
     ["richarlyssonx"]        = true, -- 17/09 20/09  
     ["kgdfh6"]               = true, -- 17/09 07/10
     ["Comunidade_6"]         = true, -- 17/09 20/09
-    ["vendasbraint"]         = true, -- 17/09 20/09
+    ["vendasbraint"]         = true, -- 21/09 24/09
     ["vteteus"]              = true, -- 18/09 25/09
 --    ["JohnnyOPXC"]           = true, -- 18/09 21/09
     ["saitama9rsm"]          = true, -- 18/09 25/09
@@ -66,10 +66,15 @@
     ["tubers93_ofc933"]      = true, -- 21/09 26/09
     ["eo_joao43"]            = true, -- 21/09 24/09
     ["Breno010L"]            = true, -- 21/09 22/09
-    
+ --   [""]            = true, -- 21/09 22/09
+--    [""]            = true, -- 21/09 22/09
+--   [""]            = true, -- 21/09 22/09
+
+
+
+ 
     --  Permanentes Uses
     ["botinha_W"]            = true,
-    ["21qxkg"]               = true,
     ["shotxz_cria"]          = true,
     ["Victhomxd"]            = true,
     ["aminos_055"]           = true,
@@ -97,6 +102,7 @@
     ["cantanguandi2"]        = true,
     ["REI_GAMER41808"]       = true,
     ["CaoHieu_32953"]        = true,
+    ["cameronsDTj746"]       = true, 
 }
 
 return allowedUsers
