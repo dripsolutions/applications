@@ -75,7 +75,7 @@ allowedUsers = {
     ["mandrake07970"]        = true, -- 21/09 28/09
     ["Ezman_638"]            = true, -- 21/09 28/09
     ["kauezinho8161"]        = true, -- 21/09 24/09
-    ["Lucaspclp1"]           = true, -- 22/09 24/09
+    ["LucasPCLP1"]           = true, -- 22/09 24/09
     
 
    ----------///// PERMANENTE ACESS /////------------   
