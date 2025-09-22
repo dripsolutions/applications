@@ -3,7 +3,7 @@
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["Gustavo_344788"]       = true,
-
+    ["Comunidade_6"]         = true,
 
     
     ----------///// MODDERS /////------------   
