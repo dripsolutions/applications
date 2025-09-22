@@ -72,7 +72,7 @@ allowedUsers = {
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
     ["mandrake07970"]        = true, -- 21/09 28/09
     ["Ezman_638"]            = true, -- 21/09 28/09
-    ["pifeta11y"]            = true, -- 21/09 22/09
+    ["kauezinho8161"]        = true, -- 21/09 24/09
     
 
    ----------///// PERMANENTE /////------------   
