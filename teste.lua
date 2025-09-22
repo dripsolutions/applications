@@ -2,9 +2,9 @@
 
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/realgengar/Library/refs/heads/main/remake.lua"))()
 local Window = redzlib:MakeWindow({
-    Title = "milly rsrsrs < Scripts >",
-    SubTitle = "instagram",
-    SaveFolder = "brook.json"
+    Title = "MILLY GIRL < Scripts >",
+    SubTitle = "CALMA VIDA",
+    SaveFolder = "UNI.json"
 })
 
 -- service functions
@@ -29,15 +29,13 @@ local function night()
     
 end
 --tabs service
-local Tab1 = Window:MakeTab({ Name = "infor", Icon = "infor" })
-local Tab2 = Window:MakeTab({ Name = "autofarm", Icon = "home" })
-local Tab3 = Window:MakeTab({ Name = "security", Icon = "shield" })
-
+local Tab1 = Window:MakeTab({ Name = "infor", Icon = "home" })
+local Tab2 = Window:MakeTab({ Name = "autofarm", Icon = "baby" })
+local Tab3 = Window:MakeTab({ Name = "security", Icon = "apple" })
 --sections
 Tab1:AddSection("infor script")
 Tab2:AddSection("settings farm")
 Tab3:AddSection("settings security")
-
 -- notify
 redzlib:Notify({
     Title = "aviso externo",
@@ -110,7 +108,6 @@ RunService.RenderStepped:Connect(function()
  end        
 end)
                 ------///function CONFIG///-------
-
 Tab2:AddButton({
     Name = "RESET POSITION",
     Callback = function()
