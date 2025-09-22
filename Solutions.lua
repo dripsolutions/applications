@@ -19,7 +19,7 @@ allowedUsers = {
     
     ----------///// TEMPORARIOS /////------------   
     ["danielhx015"]          = true, -- 20/09 22/09
-    ["diuduivh"]              = true, -- 21/09 22/09
+    ["diuduivh"]             = true, -- 21/09 22/09
     ["firecrowblackice"]     = true, -- 13/09 03/10
     ["luzdespert866"]        = true, -- 11/09 26/09
     ["papanoelpro12342"]     = true, -- 04/09 20/09
