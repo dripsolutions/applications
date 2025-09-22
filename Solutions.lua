@@ -76,6 +76,7 @@ allowedUsers = {
     ["Ezman_638"]            = true, -- 21/09 28/09
     ["kauezinho8161"]        = true, -- 21/09 24/09
     ["LucasPCLP1"]           = true, -- 22/09 24/09
+    ["Cgehqsjcexu"]          = true, -- 22/09 07/10
     
 
    ----------///// PERMANENTE ACESS /////------------   
