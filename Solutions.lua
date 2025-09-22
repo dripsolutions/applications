@@ -109,6 +109,7 @@ allowedUsers = {
     ["CaoHieu_32953"]        = true,
     ["cameronsDTj746"]       = true, 
     ["brenardao9"]           = true,
+    ["987STEPSIS987"]        = true,
 }
 
 return allowedUsers
