@@ -1,6 +1,5 @@
 ---------------------//// basic lua  ////-----------------------------
 
-
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/realgengar/Library/refs/heads/main/remake.lua"))()
 local Window = redzlib:MakeWindow({
     Title = "milly rsrsrs < Scripts >",
@@ -39,6 +38,13 @@ Tab1:AddSection("infor script")
 Tab2:AddSection("settings farm")
 Tab3:AddSection("settings security")
 
+-- notify
+redzlib:Notify({
+    Title = "aviso externo",
+    Description = "da o bum bum",
+    Duration = 99999999999999999999999999999999,
+    Type = "Error" 
+})
                 ------///function EXECUTE///-------
 Tab:AddSection("execution hubs")
 Tab2:AddButton({
