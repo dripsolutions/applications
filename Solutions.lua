@@ -17,12 +17,9 @@ allowedUsers = {
   --  [""]            = true,
     
     
-    ----------///// TEMPORARIOS /////------------   
-    ["danielhx015"]          = true, -- 20/09 22/09
-    ["diuduivh"]             = true, -- 21/09 22/09
+    ----------///// TEMPORARIOS /////------------
     ["firecrowblackice"]     = true, -- 13/09 03/10
     ["luzdespert866"]        = true, -- 11/09 26/09
-    ["papanoelpro12342"]     = true, -- 04/09 20/09
     ["ERIK90909082"]         = true, -- 02/09 01/11
     ["mendrake_253"]         = true, -- 30/08 23/09
     ["vivi18197"]            = true, -- até 24/09
@@ -33,7 +30,6 @@ allowedUsers = {
     ["Riggs_scott"]          = true, -- 26/08 16/10
     ["mandrake07970"]        = true, -- 03/09 23/09
     ["biel_mrqs"]            = true, -- 06/09 06/11
-    ["CRIA027K"]             = true, -- 07/09 19/09
     ["berluiz2001"]          = true, -- 07/09 07/11
     ["ggmax10t"]             = true, -- 07/09 07/10
     ["MasterReaper111"]      = true, -- 08/09 08/11  
@@ -43,13 +39,9 @@ allowedUsers = {
     ["almahola9"]            = true, -- 30/08 30/12
     ["ueuruirue"]            = true, -- 14/09 29/09
     ["R190oo"]               = true, -- 15/09 15/11
-    ["Bby_blessed01"]        = true, -- 15/09 22/09
     ["tubers93_10971"]       = true, -- 16/09 23/09 
-    ["Lawliet_BR007"]        = true, -- 16/09 06/10 
-    ["cort_perm"]            = true, -- 16/09 19/09
-    ["richarlyssonx"]        = true, -- 17/09 20/09  
+    ["Lawliet_BR007"]        = true, -- 16/09 06/10
     ["kgdfh6"]               = true, -- 17/09 07/10
-    ["Comunidade_6"]         = true, -- 17/09 20/09
     ["vendasbraint"]         = true, -- 21/09 24/09
     ["vteteus"]              = true, -- 18/09 25/09
     ["saitama9rsm"]          = true, -- 18/09 25/09
@@ -66,9 +58,7 @@ allowedUsers = {
     ["CoveFred"]             = true, -- 21/09 24/09
     ["tubers93_ofc933"]      = true, -- 21/09 26/09
     ["eo_joao43"]            = true, -- 21/09 24/09
-    ["Breno010L"]            = true, -- 21/09 22/09
     ["JohnnyOPXC"]           = true, -- 21/09 24/09
-    ["HBT_QiOzdb9pNL"]       = true, -- as 19hrs
     ["Aiyazha3451"]          = true, -- 21/09 24/09
     ["victorgab0404"]        = true, -- 21/09 24/09
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
