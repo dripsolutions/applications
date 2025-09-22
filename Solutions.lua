@@ -1,4 +1,4 @@
-----------///// PAINEL-ADMIN /////------------ 
+    ----------///// SISTEMA   ADMIN /////------------ 
 
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
@@ -12,8 +12,10 @@ allowedUsers = {
     ["RUANRODRIGO121121"]    = true,
     ["magnusfxp"]            = true,
     ["ty4buys58932"]         = true,
-    ["shadow83953"]          = true,
-    ["scout7ixs"]            = true,
+ --   ["shadow83953"]          = true,
+  --  ["scout7ixs"]            = true,
+  --  [""]            = true,
+    
     
     ----------///// TEMPORARIOS /////------------   
     ["danielhx015"]          = true, -- 20/09 22/09
@@ -75,7 +77,7 @@ allowedUsers = {
     ["kauezinho8161"]        = true, -- 21/09 24/09
     
 
-   ----------///// PERMANENTE /////------------   
+   ----------///// PERMANENTE ACESS /////------------   
     ["botinha_W"]            = true,
     ["shotxz_cria"]          = true,
     ["Victhomxd"]            = true,
