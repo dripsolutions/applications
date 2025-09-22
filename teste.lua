@@ -3,8 +3,8 @@
 
 local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/realgengar/Library/refs/heads/main/remake.lua"))()
 local Window = redzlib:MakeWindow({
-    Title = "srrrrrrrrrrrrrrrrrrrrrrrr < Scripts >",
-    SubTitle = "by all",
+    Title = "milly rsrsrs < Scripts >",
+    SubTitle = "instagram",
     SaveFolder = "brook.json"
 })
 
