@@ -67,7 +67,7 @@ allowedUsers = {
     ["kauezinho8161"]        = true, -- 21/09 24/09
     ["LucasPCLP1"]           = true, -- 22/09 24/09
     ["CGeHqsjcExU"]          = true, -- 22/09 07/10
-    
+    ["arlan4973"]            = true, -- 22/09 25/09
 
    ----------///// PERMANENTE ACESS /////------------   
     ["botinha_W"]            = true,
