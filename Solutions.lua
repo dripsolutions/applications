@@ -78,6 +78,7 @@ allowedUsers = {
     ["PeloTocino_X80"]       = true, -- 23/09 26/09 
     ["brainrotscriot"]       = true, -- 23/09 26/09 
     ["Lucasgdfss2"]          = true, -- 23/09 26/09
+    ["guisilva59dd"]         = true, -- 23/09 01/10
     
 
    ----------///// PERMANENTE ACESS /////------------
