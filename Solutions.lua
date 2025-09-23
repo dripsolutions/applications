@@ -19,7 +19,7 @@ allowedUsers = {
     
     
     ----------///// TEMPORARIOS /////------------
-    ["firecrowblackice"]     = true, -- 13/09 03/10
+    ["firecrowblackice"]     = true, -- 13/09 03/10 
     ["luzdespert866"]        = true, -- 11/09 26/09
     ["ERIK90909082"]         = true, -- 02/09 01/11
     ["mendrake_253"]         = true, -- 30/08 23/09
@@ -75,7 +75,8 @@ allowedUsers = {
     ["pedro312jee"]          = true, -- 22/09 25/09 
     ["HA_SHEIK100K"]         = true, -- 22/09 22/11 
     ["PeloTocino_X80"]       = true, -- 23/09 26/09 
-    ["brainrotscriot"]       = true, -- 23/09 26/09
+    ["brainrotscriot"]       = true, -- 23/09 26/09 
+    ["Lucasgdfss2"]          = true, -- 23/09 26/09
     
 
    ----------///// PERMANENTE ACESS /////------------   
