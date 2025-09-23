@@ -11,7 +11,8 @@ allowedUsers = {
     ["Roblox_Anthex"]        = true,
     ["RUANRODRIGO121121"]    = true,
     ["magnusfxp"]            = true,
-    ["ty4buys58932"]         = true,
+    ["scout7ixs"]            = true,
+
     
     ----------///// TEMPORARIOS /////------------
     ["Goether304"]           = true, -- 23/09 23/11
