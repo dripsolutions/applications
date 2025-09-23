@@ -1,5 +1,4 @@
     ----------///// SISTEMA   ADMIN /////------------ 
-
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["Gustavo_344788"]       = true,
@@ -13,10 +12,6 @@ allowedUsers = {
     ["RUANRODRIGO121121"]    = true,
     ["magnusfxp"]            = true,
     ["ty4buys58932"]         = true,
- --   ["shadow83953"]          = true,
-  --  ["scout7ixs"]            = true,
-  --  [""]            = true,
-    
     
     ----------///// TEMPORARIOS /////------------
     ["Goether304"]           = true, -- 23/09 23/11
@@ -49,11 +44,7 @@ allowedUsers = {
     ["saitama9rsm"]          = true, -- 18/09 25/09
     ["aiyazhal3451"]         = true, -- 21/09 24/09 
     ["brennolindaoel"]       = true, -- 19/09 22/10
-    ["Hhgfffrgffggf"]        = true, -- 20/09 23/09
     ["kingg_0750"]           = true, -- 20/09 23/09
-    ["SX_THIAGOX7"]          = true, -- 20/09 23/09
-    ["max13434674"]          = true, -- 20/09 23/09
-    ["baianim940"]           = true, -- 20/09 23/09
     ["Kenned_Thiago"]        = true, -- 21/09 24/09
     ["akimanachamana"]       = true, -- 21/09 28/09
     ["scoobydoolido"]        = true, -- 21/09 24/09
