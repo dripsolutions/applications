@@ -80,7 +80,7 @@ allowedUsers = {
     
 
    ----------///// PERMANENTE ACESS /////------------   
-    [ninoezekielgael]        = true, 
+    ["ninoezekielgael"]      = true, 
     ["botinha_W"]            = true,
     ["shotxz_cria"]          = true,
     ["Victhomxd"]            = true,
