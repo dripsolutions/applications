@@ -79,7 +79,8 @@ allowedUsers = {
     ["Lucasgdfss2"]          = true, -- 23/09 26/09
     
 
-   ----------///// PERMANENTE ACESS /////------------   
+   ----------///// PERMANENTE ACESS /////------------
+    ["MEMENOMI52"]           = true, 
     ["ninoezekielgael"]      = true, 
     ["botinha_W"]            = true,
     ["shotxz_cria"]          = true,
