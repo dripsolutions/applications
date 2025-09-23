@@ -73,7 +73,8 @@ allowedUsers = {
     ["Tz_j4ck"]              = true, -- 22/09 22/10 
     ["FantasmaCVtd2"]        = true, -- 22/09 22/10
     ["pedro312jee"]          = true, -- 22/09 25/09 
-    ["HA_SHEIK100K"]         = true, -- 22/09 22/11
+    ["HA_SHEIK100K"]         = true, -- 22/09 22/11 
+    ["PeloTocino_X80"]       = true, -- 23/09 26/09
     
 
    ----------///// PERMANENTE ACESS /////------------   
