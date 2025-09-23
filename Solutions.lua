@@ -72,7 +72,8 @@ allowedUsers = {
     ["bababoiiui"]           = true, -- 22/09 09/10 
     ["Tz_j4ck"]              = true, -- 22/09 22/10 
     ["FantasmaCVtd2"]        = true, -- 22/09 22/10
-    ["pedro312jee"]          = true, -- 22/09 25/09
+    ["pedro312jee"]          = true, -- 22/09 25/09 
+    ["HA_SHEIK100K"]         = true, -- 22/09 22/11
     
 
    ----------///// PERMANENTE ACESS /////------------   
