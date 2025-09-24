@@ -68,7 +68,8 @@ allowedUsers = {
     ["brainrotscriot"]       = true, -- 23/09 26/09 
     ["Lucasgdfss2"]          = true, -- 23/09 26/09
     ["guisilva59dd"]         = true, -- 23/09 01/10
-    ["gustavojunior07"]      = true, -- 23/09 26/09
+    ["gustavojunior07"]      = true, -- 23/09 26/09 
+    ["user_t15nuau3"]        = true, -- 24/09 27/09
 
    ----------///// PERMANENTE ACESS /////------------
     ["MEMENOMI52"]           = true, 
