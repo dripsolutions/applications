@@ -65,7 +65,8 @@ allowedUsers = {
     ["ladr500"]              = true, -- 24/09 28/09
 
    ----------///// PERMANENTE ACESS /////------------
-    ["MEMENOMI52"]           = true, 
+    ["rafabrow31"]           = true,    
+    ["MEMENOMI52"]           = true,  
     ["ninoezekielgael"]      = true, 
     ["botinha_W"]            = true,
     ["shotxz_cria"]          = true,
