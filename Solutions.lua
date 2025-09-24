@@ -69,7 +69,7 @@ allowedUsers = {
     ["Lucasgdfss2"]          = true, -- 23/09 26/09
     ["guisilva59dd"]         = true, -- 23/09 01/10
     ["gustavojunior07"]      = true, -- 23/09 26/09 
-    ["user_t15nuau3"]        = true, -- 24/09 27/09
+    ["user_t15nuau3"]        = true, -- 24/09 27/09 
 
    ----------///// PERMANENTE ACESS /////------------
     ["MEMENOMI52"]           = true, 
@@ -107,7 +107,7 @@ allowedUsers = {
     ["987STEPSIS987"]        = true,
     ["diuduivh"]             = true, 
     ["Alex1_520468"]         = true,
-    ["Alex1_5204"]           = true, -- @anthony8919082
-}
+    ["Alex1_5204"]           = true, -- @anthony8919082 
+    ["derrok0076"]           = true,
 
 return allowedUsers
