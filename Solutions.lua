@@ -61,6 +61,7 @@ allowedUsers = {
     ["gustavojunior07"]      = true, -- 23/09 26/09 
     ["user_t15nuau3"]        = true, -- 24/09 27/09 
     ["ChaRada519"]           = true, -- 24/09 27/09
+    ["najahkaj"]             = true, -- 24/09 28/09
     ["ladr500"]              = true, -- 24/09 28/09
 
    ----------///// PERMANENTE ACESS /////------------
