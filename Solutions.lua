@@ -101,6 +101,7 @@ allowedUsers = {
     ["Alex1_520468"]         = true,
     ["Alex1_5204"]           = true, -- @anthony8919082 
     ["derrok0076"]           = true,
+    ["doidodabagaca"]        = true,
 }
 
 return allowedUsers
