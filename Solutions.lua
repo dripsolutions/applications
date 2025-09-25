@@ -64,6 +64,7 @@ allowedUsers = {
     ["roxinhoFC3"]           = true, -- 25/09 28/09
     ["vendasbraint"]         = true, -- 25/09 28/10
     ["victorgab0404"]        = true, -- 25/09 28/10
+    ["DNA_BOTT"]             = true, -- 25/09 28/09
 
 
    ----------///// PERMANENTE ACESS /////------------
