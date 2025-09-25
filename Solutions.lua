@@ -62,7 +62,8 @@ allowedUsers = {
     ["user_t15nuau3"]        = true, -- 24/09 27/09 
     ["ChaRada519"]           = true, -- 24/09 27/09
     ["najahkaj"]             = true, -- 24/09 28/09
-    ["ladr500"]              = true, -- 24/09 28/09
+    ["ladr500"]              = true, -- 24/09 28/09 
+    ["HBT_QiOzdb9pNL"]       = true, -- 24/09 01/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
