@@ -102,7 +102,7 @@ allowedUsers = {
     ["987STEPSIS987"]        = true,
     ["diuduivh"]             = true, 
     ["Alex1_520468"]         = true,
-    ["Alex1_5204"]           = true, -- @anthony8919082 
+    ["Alex1_5204"]           = true,
     ["derrok0076"]           = true,
     ["doidodabagaca"]        = true,
 }
