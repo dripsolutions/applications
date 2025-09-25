@@ -66,6 +66,7 @@ allowedUsers = {
     ["victorgab0404"]        = true, -- 25/09 28/10
     ["DNA_BOTT"]             = true, -- 25/09 28/09
     ["J00FYW00L"]            = true, -- 25/09 07/10
+    ["brunoeduardo87"]           = true, -- 25/09 28/09
 
 
    ----------///// PERMANENTE ACESS /////------------
