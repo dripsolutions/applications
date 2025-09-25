@@ -62,6 +62,7 @@ allowedUsers = {
     ["teteukkj00"]           = true, -- 25/09 28/09
     ["Dudugamer_2022"]       = true, -- 25/09 28/09
     ["roxinhoFC3"]           = true, -- 25/09 28/09
+    ["vendasbraint"]         = true, -- 25/09 28/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
