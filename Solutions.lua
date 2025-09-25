@@ -7,12 +7,7 @@ allowedUsers = {
 
     
     ----------///// MODDERS /////------------   
-    ["CheaterUnknowlocal"]   = true,
-    ["Roblox_Anthex"]        = true,
-    ["RUANRODRIGO121121"]    = true,
-    ["magnusfxp"]            = true,
-    ["scout7ixs"]            = true, 
-    ["ty4buys58932"]         = true, 
+    
 
     
     ----------///// TEMPORARIOS /////------------
@@ -63,6 +58,7 @@ allowedUsers = {
     ["HBT_QiOzdb9pNL"]       = true, -- 24/09 01/10
     ["anselmo_Lives"]        = true, -- 24/09 15/10
     ["BRENOGABRiLE911"]      = true, -- 25/09 28/09
+    ["TUBERS93good1"]        = true, -- 25/09 01/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
