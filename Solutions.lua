@@ -59,7 +59,7 @@ allowedUsers = {
     ["anselmo_Lives"]        = true, -- 24/09 15/10
     ["BRENOGABRiLE911"]      = true, -- 25/09 28/09
     ["TUBERS93good1"]        = true, -- 25/09 01/10
-
+    ["teteukkj00"]           = true, -- 25/09 28/09
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
     ["MEMENOMI52"]           = true,  
