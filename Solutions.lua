@@ -67,7 +67,7 @@ allowedUsers = {
     ["DNA_BOTT"]             = true, -- 25/09 28/09
     ["J00FYW00L"]            = true, -- 25/09 07/10
     ["brunoeduardo87"]       = true, -- 25/09 28/09
-    ["txmax_5 "]             = true, -- 25/09 28/09
+    ["txmax_5"]              = true, -- 25/09 28/09
   
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
