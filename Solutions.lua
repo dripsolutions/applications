@@ -62,7 +62,7 @@ allowedUsers = {
     ["ladr500"]              = true, -- 24/09 28/09 
     ["HBT_QiOzdb9pNL"]       = true, -- 24/09 01/10
     ["anselmo_Lives"]        = true, -- 24/09 15/10
-    ["BRENOGABRILE911"]      = true, -- 25/09 28/09
+    ["BRENOGABRiLE911"]      = true, -- 25/09 28/09
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
