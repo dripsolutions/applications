@@ -16,6 +16,7 @@ allowedUsers = {
 
     
     ----------///// TEMPORARIOS /////------------
+    ["Vega123io"]            = true, -- 24/09 27/09
     ["xgab1marce"]           = true, -- 24/09 27/09
     ["KAKAEM_BMECTE1265g"]   = true, -- 24/09 27/09
     ["Iamthebestemperor"]    = true, -- 24/09 37/09
