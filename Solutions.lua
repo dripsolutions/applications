@@ -3,7 +3,8 @@ allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["Gustavo_344788"]       = true,
     ["Comunidade_6"]         = true,
-    ["joaozinho_Respect"]    = true, 
+    ["joaozinho_Respect"]    = true,
+    ["indioff_3"]            = true,
 
     
     ----------///// MODDERS /////------------   
