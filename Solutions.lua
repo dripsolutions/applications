@@ -76,7 +76,7 @@ allowedUsers = {
     ["moumoud"]              = true, -- 26/09 07/10
     ["OToddyZx"]             = true, -- 26/09 03/10
     ["peixebometop2"]        = true, -- 26/09 26/11
-    ["slk_breno10"]          = true, -- 26/09 29/09
+    ["slk_Breno10"]          = true, -- 26/09 29/09
     ["baianim940"]           = true, -- 26/09 29/09
 
    ----------///// PERMANENTE ACESS /////------------
