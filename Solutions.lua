@@ -70,6 +70,8 @@ allowedUsers = {
     ["kairontele2"]          = true, -- 26/09 29/09
     ["Kinglaighton24"]       = true, -- 26/09 29/09
     ["pyhpooggocoy"]         = true, -- 26/09 29/09
+    ["conta_secundaria9914"] = true, -- 26/09 29/09
+
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
