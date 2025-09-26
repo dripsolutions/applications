@@ -71,6 +71,7 @@ allowedUsers = {
     ["Kinglaighton24"]       = true, -- 26/09 29/09
     ["pyhpooggocoy"]         = true, -- 26/09 29/09
     ["conta_secundaria9914"] = true, -- 26/09 29/09
+    ["gato_assasino"]        = true, -- 26/09 26/10
 
 
    ----------///// PERMANENTE ACESS /////------------
