@@ -7,7 +7,7 @@ allowedUsers = {
 
     
     ----------///// MODDERS /////------------   
-    
+    ["derrok0076"]           = true,
 
     
     ----------///// TEMPORARIOS /////------------
@@ -106,7 +106,6 @@ allowedUsers = {
     ["diuduivh"]             = true, 
     ["Alex1_520468"]         = true,
     ["Alex1_5204"]           = true,
-    ["derrok0076"]           = true,
     ["doidodabagaca"]        = true,
     ["LorranB12X"]           = true,
 }
