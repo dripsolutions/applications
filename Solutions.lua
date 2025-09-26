@@ -18,7 +18,7 @@ allowedUsers = {
     ["bayqubt_12008"]        = true, -- 24/09 27/09
     ["Goether304"]           = true, -- 23/09 23/11
     ["firecrowblackice"]     = true, -- 13/09 03/10 
-    ["luzdespert866"]        = true, -- 11/09 26/09
+    
     ["ERIK90909082"]         = true, -- 02/09 01/11
     ["twelo_zinha3"]         = true, -- 26/08 26/09
     ["Gabrielmilitar_6"]     = true, -- 27/08 27/12
