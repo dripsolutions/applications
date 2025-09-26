@@ -75,6 +75,7 @@ allowedUsers = {
     ["gxprsiafifaiksfdkfkz"] = true, -- 26/09 29/09
     ["moumoud"]              = true, -- 26/09 07/10
     ["OToddyZx"]             = true, -- 26/09 03/10
+    ["peixebometop2"]        = true, -- 26/09 26/11
 
 
    ----------///// PERMANENTE ACESS /////------------
