@@ -18,7 +18,6 @@ allowedUsers = {
     ["bayqubt_12008"]        = true, -- 24/09 27/09
     ["Goether304"]           = true, -- 23/09 23/11
     ["firecrowblackice"]     = true, -- 13/09 03/10 
-    
     ["ERIK90909082"]         = true, -- 02/09 27/12
     ["Gabrielmilitar_6"]     = true, -- 27/08 27/12
     ["Riggs_scott"]          = true, -- 26/08 16/10
@@ -36,7 +35,6 @@ allowedUsers = {
     ["kgdfh6"]               = true, -- 17/09 07/10
     ["brennolindaoel"]       = true, -- 19/09 22/10
     ["akimanachamana"]       = true, -- 21/09 28/09
-   
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
     ["mandrake07970"]        = true, -- 21/09 28/09
     ["Ezman_638"]            = true, -- 21/09 28/09
@@ -47,9 +45,7 @@ allowedUsers = {
     ["HA_SHEIK100K"]         = true, -- 22/09 22/11 
     ["PeloTocino_X80"]       = true, -- 23/09 26/09 
     ["brainrotscriot"]       = true, -- 23/09 26/09 
-   
     ["guisilva59dd"]         = true, -- 23/09 01/10
-   
     ["user_t15nuau3"]        = true, -- 24/09 27/09 
     ["ChaRada519"]           = true, -- 24/09 27/09
     ["najahkaj"]             = true, -- 24/09 28/09
@@ -71,10 +67,6 @@ allowedUsers = {
     ["123heitorsasuke"]      = true, -- 25/09 28/09
     ["ouCxQQgrlCF"]          = true, -- 25/09 28/09
     ["Hnybmnbamo"]           = true, -- 26/09 29/09
-   
-
-
-
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
     ["MEMENOMI52"]           = true,  
