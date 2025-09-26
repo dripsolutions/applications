@@ -72,8 +72,10 @@ allowedUsers = {
     ["123heitorsasuke"]      = true, -- 25/09 28/09
     ["ouCxQQgrlCF"]          = true, -- 25/09 28/09
     ["Hnybmnbamo"]           = true, -- 26/09 29/09
+   
 
-  
+
+
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
     ["MEMENOMI52"]           = true,  
