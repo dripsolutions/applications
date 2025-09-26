@@ -33,7 +33,6 @@ allowedUsers = {
     ["R190oo"]               = true, -- 15/09 15/11
     ["Lawliet_BR007"]        = true, -- 16/09 06/10
     ["kgdfh6"]               = true, -- 17/09 07/10
-    ["brennolindaoel"]       = true, -- 19/09 22/10
     ["akimanachamana"]       = true, -- 21/09 28/09
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
     ["mandrake07970"]        = true, -- 21/09 28/09
