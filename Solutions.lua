@@ -36,7 +36,7 @@ allowedUsers = {
     ["kgdfh6"]               = true, -- 17/09 07/10
     ["brennolindaoel"]       = true, -- 19/09 22/10
     ["akimanachamana"]       = true, -- 21/09 28/09
-    ["tubers93_ofc933"]      = true, -- 21/09 26/09
+   
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
     ["mandrake07970"]        = true, -- 21/09 28/09
     ["Ezman_638"]            = true, -- 21/09 28/09
@@ -47,9 +47,9 @@ allowedUsers = {
     ["HA_SHEIK100K"]         = true, -- 22/09 22/11 
     ["PeloTocino_X80"]       = true, -- 23/09 26/09 
     ["brainrotscriot"]       = true, -- 23/09 26/09 
-    ["Lucasgdfss2"]          = true, -- 23/09 26/09
+   
     ["guisilva59dd"]         = true, -- 23/09 01/10
-    ["gustavojunior07"]      = true, -- 23/09 26/09 
+   
     ["user_t15nuau3"]        = true, -- 24/09 27/09 
     ["ChaRada519"]           = true, -- 24/09 27/09
     ["najahkaj"]             = true, -- 24/09 28/09
