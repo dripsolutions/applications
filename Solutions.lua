@@ -70,6 +70,7 @@ allowedUsers = {
     ["txmax_5"]              = true, -- 25/09 28/09
     ["ff_pretin"]            = true, -- 25/09 28/09
     ["123heitorsasuke"]      = true, -- 25/09 28/09
+    ["ouCxQQgrlCF"]          = true, __ 25/09 28/09
 
   
    ----------///// PERMANENTE ACESS /////------------
