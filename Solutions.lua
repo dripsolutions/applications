@@ -67,7 +67,7 @@ allowedUsers = {
     ["ouCxQQgrICf"]          = true, -- 25/09 29/09
     ["Hnybmnbamo"]           = true, -- 26/09 29/09
     ["bintangrafasya5"]      = true, -- 26/09 29/09
-    ["Kairontele2"]          = true, -- 26/09 29/09
+    ["kairontele2"]          = true, -- 26/09 29/09
     ["Kinglaighton24"]       = true, -- 26/09 29/09
     ["pyhpooggocoy"]         = true, -- 26/09 29/09
 
