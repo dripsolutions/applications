@@ -8,7 +8,7 @@ allowedUsers = {
     
     ----------///// MODDERS /////------------   
     ["derrok0076"]           = true,
-
+    ["ty4buys58932"]         = true,
     
     ----------///// TEMPORARIOS /////------------
     ["Vega123io"]            = true, -- 24/09 27/09
