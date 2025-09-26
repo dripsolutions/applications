@@ -19,8 +19,7 @@ allowedUsers = {
     ["Goether304"]           = true, -- 23/09 23/11
     ["firecrowblackice"]     = true, -- 13/09 03/10 
     
-    ["ERIK90909082"]         = true, -- 02/09 01/11
-    ["twelo_zinha3"]         = true, -- 26/08 26/09
+    ["ERIK90909082"]         = true, -- 02/09 27/12
     ["Gabrielmilitar_6"]     = true, -- 27/08 27/12
     ["Riggs_scott"]          = true, -- 26/08 16/10
     ["biel_mrqs"]            = true, -- 06/09 06/11
