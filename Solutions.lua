@@ -66,6 +66,7 @@ allowedUsers = {
     ["Hnybmnbamo"]           = true, -- 26/09 29/09
     ["bintangrafasya5"]      = true, -- 26/09 29/09
     ["Kairontele2"]          = true, -- 26/09 29/09
+    ["Kinglaighton24"]       = true, -- 26/09 29/09
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
     ["MEMENOMI52"]           = true,  
