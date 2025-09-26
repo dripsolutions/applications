@@ -78,7 +78,7 @@ allowedUsers = {
     ["peixebometop2"]        = true, -- 26/09 26/11
     ["slk_Breno10"]          = true, -- 26/09 29/09
     ["baianim940"]           = true, -- 26/09 29/09
-    ["oToddyZx"].            = true, -- 26/09 3/10
+    ["oToddyZx"]             = true, -- 26/09 3/10
 
 
    ----------///// PERMANENTE ACESS /////------------
