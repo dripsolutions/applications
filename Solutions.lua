@@ -73,7 +73,8 @@ allowedUsers = {
     ["conta_secundaria9914"] = true, -- 26/09 29/09
     ["gato_assasino"]        = true, -- 26/09 26/10
     ["gxprsiafifaiksfdkfkz"] = true, -- 26/09 29/09
-    ["moumoud"]              = true, -- 26/09 7/10
+    ["moumoud"]              = true, -- 26/09 07/10
+    ["OToddyZx"]             = true, -- 26/09 03/10
 
 
    ----------///// PERMANENTE ACESS /////------------
