@@ -11,6 +11,7 @@ allowedUsers = {
    -- deixa isso cmg, magnus
     
     ----------///// TEMPORARIOS /////-------------
+    ["Iamthebestemperor"]    = true, -- 24/09 27/09
     ["Goether304"]           = true, -- 23/09 23/11
     ["firecrowblackice"]     = true, -- 13/09 03/10 
     ["ERIK90909082"]         = true, -- 02/09 27/12
