@@ -121,6 +121,9 @@ allowedUsers = {
     ["doidodabagaca"]        = true,
     ["LorranB12X"]           = true,
     ["Luizmiguel0156"]       = true,
+    ["GHOSTS9092"]           = true,
+
+
 }
 
 return allowedUsers
