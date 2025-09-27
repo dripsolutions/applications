@@ -123,6 +123,7 @@ allowedUsers = {
     ["Luizmiguel0156"]       = true,
     ["GUESTS9092"]           = true,
     ["derrok0076"]           = true,
+    ["MISTER239803"]         = true,
 
 
 }
