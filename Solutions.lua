@@ -76,7 +76,7 @@ allowedUsers = {
     ["xgab1marce"]           = true, -- 26/09 26/10
     ["PainFantasmax"]        = true, -- 27/09 27/12
     ["TFleNKhl"]             = true, -- 27/09 30/09
-
+    ["ruhuzhmfun"]           = true, -- 27/09 30/09
 
 
    ----------///// PERMANENTE ACESS /////------------
