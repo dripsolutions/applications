@@ -10,12 +10,9 @@ allowedUsers = {
     ----------///// MODDERS /////------------   
    -- deixa isso cmg, magnus
     
-    ----------///// TEMPORARIOS /////------------
-    ["Vega123io"]            = true, -- 24/09 27/09
-    ["xgab1marce"]           = true, -- 24/09 27/09
-    ["KAKAEM_BMECTE1265g"]   = true, -- 24/09 27/09
+    ----------///// TEMPORARIOS /////-------------
+
     ["Iamthebestemperor"]    = true, -- 24/09 37/09
-    ["bayqubt_12008"]        = true, -- 24/09 27/09
     ["Goether304"]           = true, -- 23/09 23/11
     ["firecrowblackice"]     = true, -- 13/09 03/10 
     ["ERIK90909082"]         = true, -- 02/09 27/12
@@ -42,9 +39,7 @@ allowedUsers = {
     ["Tz_j4ck"]              = true, -- 22/09 22/10 
     ["EDOFLEX5"]             = true, -- 22/09 22/10 
     ["HA_SHEIK100K"]         = true, -- 22/09 22/11 
-    ["guisilva59dd"]         = true, -- 23/09 01/10
-    ["user_t15nuau3"]        = true, -- 24/09 27/09 
-    ["ChaRada519"]           = true, -- 24/09 27/09
+    ["guisilva59dd"]         = true, -- 23/09 01/10 
     ["najahkaj"]             = true, -- 24/09 28/09
     ["ladr500"]              = true, -- 24/09 28/09 
     ["HBT_QiOzdb9pNL"]       = true, -- 24/09 01/10
