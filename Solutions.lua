@@ -11,8 +11,6 @@ allowedUsers = {
    -- deixa isso cmg, magnus
     
     ----------///// TEMPORARIOS /////-------------
-
-    ["Iamthebestemperor"]    = true, -- 24/09 37/09
     ["Goether304"]           = true, -- 23/09 23/11
     ["firecrowblackice"]     = true, -- 13/09 03/10 
     ["ERIK90909082"]         = true, -- 02/09 27/12
@@ -71,7 +69,7 @@ allowedUsers = {
     ["peixebometop2"]        = true, -- 26/09 26/11
     ["slk_Breno10"]          = true, -- 26/09 29/09
     ["baianim940"]           = true, -- 26/09 29/09
-    ["oToddyZx"]             = true, -- 26/09 3/10
+    ["oToddyZx"]             = true, -- 26/09 03/10
     ["xbab1marce"]           = true, -- 26/09 26/10
 
 
@@ -107,7 +105,6 @@ allowedUsers = {
     ["cantanguandi2"]        = true,
     ["REI_GAMER41808"]       = true,
     ["CaoHieu_32953"]        = true,
-    ["cameronsDTj746"]       = true, 
     ["brenardao9"]           = true,
     ["987STEPSIS987"]        = true,
     ["diuduivh"]             = true, 
@@ -117,6 +114,7 @@ allowedUsers = {
     ["LorranB12X"]           = true,
     ["Luizmiguel0156"]       = true,
     ["GUESTS9092"]           = true,
+    ["derrok0076"]           = true,
 
 
 }
