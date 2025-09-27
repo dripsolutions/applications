@@ -79,6 +79,8 @@ allowedUsers = {
     ["PietroPazMaciel"]      = true, -- 27/09 30/09
     ["IVANBR9876"]           = true, -- 27/09 04/10
     ["Thurdanaty"]           = true, -- 27/09 30/09
+    ["luisreal3"]            = true, -- 27/09 04/10
+
 
 
 
