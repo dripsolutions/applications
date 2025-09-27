@@ -77,6 +77,8 @@ allowedUsers = {
     ["TFleNKhl"]             = true, -- 27/09 30/09
     ["ruhuzhmfun"]           = true, -- 27/09 30/09
     ["PietroPazMaciel"]      = true, -- 27/09 30/09
+    ["IVANBR9876"]           = true, -- 27/09 04/10
+
 
 
    ----------///// PERMANENTE ACESS /////------------
