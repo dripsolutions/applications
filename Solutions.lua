@@ -13,7 +13,6 @@ allowedUsers = {
     ----------///// TEMPORARIOS /////-------------
     ["01Xxx09"]              = true, -- 27/09 27/10
     ["seupaiemeu778"]        = true, -- 27/09 04/10
-    ["Iamthebestemperor"]    = true, -- 24/09 27/09
     ["Goether304"]           = true, -- 23/09 23/11
     ["firecrowblackice"]     = true, -- 13/09 03/10 
     ["ERIK90909082"]         = true, -- 02/09 27/12
