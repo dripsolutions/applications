@@ -126,7 +126,7 @@ allowedUsers = {
     ["GUESTS9092"]           = true,
     ["derrok0076"]           = true,
     ["MISTER239803"]         = true,
-
+    ["vitin_5242"]           = true,
 
 }
 
