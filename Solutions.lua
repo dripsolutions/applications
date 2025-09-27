@@ -74,6 +74,7 @@ allowedUsers = {
     ["baianim940"]           = true, -- 26/09 29/09
     ["oToddyZx"]             = true, -- 26/09 03/10
     ["xgab1marce"]           = true, -- 26/09 26/10
+    ["PainFantasmax"]        = true, -- 27/09 27/12
 
 
    ----------///// PERMANENTE ACESS /////------------
