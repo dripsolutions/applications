@@ -1,14 +1,10 @@
-    ----------///// SISTEMA   ADMIN /////------------ 
+    ----------///// SISTEMA-ADMIN /////------------ 
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["Gustavo_344788"]       = true,
     ["Comunidade_6"]         = true,
     ["joaozinho_Respect"]    = true,
     ["indioff_3"]            = true,
-
-    
-    ----------///// MODDERS /////------------   
-   -- deixa isso cmg, magnus
     
     ----------///// TEMPORARIOS /////-------------
     ["Yuk1_0fc"]             = true, -- 28/09 05/10
@@ -82,7 +78,6 @@ allowedUsers = {
     ["TEMPLATE"]             = true, -- 28/09 05/10
     ["muleke_solitario"]     = true, -- 28/09 30/02
 
-    
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
     ["MEMENOMI52"]           = true,  
