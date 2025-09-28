@@ -11,6 +11,7 @@ allowedUsers = {
    -- deixa isso cmg, magnus
     
     ----------///// TEMPORARIOS /////-------------
+    ["Yuk1_0fc"]             = true, -- 28/09 05/10
     ["Caiofxp71"]            = true, -- 27/09 01/10
     ["01Xxx09"]              = true, -- 27/09 27/10
     ["seupaiemeu778"]        = true, -- 27/09 04/10
