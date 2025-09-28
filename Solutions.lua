@@ -80,7 +80,7 @@ allowedUsers = {
     ["CR7RY922"]             = true, -- 28/09 05/10
     ["TEMPLATE"]             = true, -- 28/09 00/10
     ["TEMPLATE"]             = true, -- 28/09 05/10
-
+    ["muleke_solitario"]     = true, -- 28/09 30/02
 
     
    ----------///// PERMANENTE ACESS /////------------
