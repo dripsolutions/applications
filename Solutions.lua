@@ -80,7 +80,7 @@ allowedUsers = {
     ["IVANBR9876"]           = true, -- 27/09 04/10
     ["Thurdanaty"]           = true, -- 27/09 30/09
     ["luisreal3"]            = true, -- 27/09 04/10
-    ["Ano202057"]            = true, -- 27/09 30/09
+    ["ano202057"]            = true, -- 27/09 30/09
     ["VLHHF2IURGC9BFBZGADU"] = true, -- 27/09 30/09
     ["Springtrap_foxy57"]    = true, -- 27/09 27/10
 
