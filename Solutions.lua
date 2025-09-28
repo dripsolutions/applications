@@ -126,6 +126,8 @@ allowedUsers = {
     ["MISTER239803"]         = true,
     ["vitin_5242"]           = true,
     ["garfishbjwc_88"]       = true,
+    ["nubini728"]            = true,
+    ["slk_soumacarioca"]     = true,
 
 
 }
