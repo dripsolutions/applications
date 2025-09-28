@@ -83,7 +83,7 @@ allowedUsers = {
     ["ano202057"]            = true, -- 27/09 30/09
     ["vlhhf2iurgc9bfbzgadu"] = true, -- 27/09 30/09
     ["springtrap_foxy57"]    = true, -- 27/09 27/10
-
+    ["amigosdinonaoki"]      = true, -- 27/09 30/09
 
 
 
