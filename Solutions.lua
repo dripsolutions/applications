@@ -83,7 +83,7 @@ allowedUsers = {
     ["muleke_solitario"]     = true, -- 28/09 30/02
     ["hghbdksmoq45439"]      = true, -- 28/09 28/11
     ["Miguel9827124"]        = true, -- 28/09 2/11
-   
+    ["odiablogames109"]      = true, -- 28/09 30/11
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
