@@ -87,8 +87,6 @@ allowedUsers = {
     ["bielge10"]             = true, -- 27/09 2/10
     ["oruam244x"]            = true, -- 27/09 2/10
 
-
-
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
     ["MEMENOMI52"]           = true,  
