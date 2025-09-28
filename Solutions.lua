@@ -76,6 +76,10 @@ allowedUsers = {
     ["TBER940"]              = true, -- 28/09 01/10
     ["txmax_5"]              = true, -- 28/09 28/10
     ["Sophia_euoxi"]         = true, -- 28/09 05/10
+    ["TEMPLATE"]             = true, -- 28/09 00/10
+   ["TEMPLATE"]              = true, -- 28/09 00/10
+   ["TEMPLATE"]              = true, -- 28/09 00/10
+
 
     
    ----------///// PERMANENTE ACESS /////------------
