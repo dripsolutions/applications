@@ -84,7 +84,7 @@ allowedUsers = {
     ["hghbdksmoq45439"]      = true, -- 28/09 28/11
     ["Miguel9827124"]        = true, -- 28/09 2/11
     ["diablogames109"]      = true, -- 28/09 30/11
-    ["Rip_tk1k"]             = true, -- 29/09 4/10
+    ["Rip_tik1k"]             = true, -- 29/09 4/10
 
 
    ----------///// PERMANENTE ACESS /////------------
