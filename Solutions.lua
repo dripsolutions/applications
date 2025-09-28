@@ -74,7 +74,7 @@ allowedUsers = {
     ["oruam244x"]            = true, -- 27/09 02/10 
     ["123heitorsasuke"]      = true, -- 28/09 01/10
     ["TBER940"]              = true, -- 28/09 01/10
-
+    ["txmax_5"]              = true, -- 28/09 28/10
 
     
    ----------///// PERMANENTE ACESS /////------------
