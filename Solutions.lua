@@ -72,7 +72,7 @@ allowedUsers = {
     ["amigosdinonaoki"]      = true, -- 27/09 30/09
     ["bielge10"]             = true, -- 27/09 02/10
     ["oruam244x"]            = true, -- 27/09 02/10 
-    ["123heitorsasuke"]      = true, -- 28/09 31/09
+    ["123heitorsasuke"]      = true, -- 28/09 01/10
 
     
    ----------///// PERMANENTE ACESS /////------------
