@@ -77,9 +77,9 @@ allowedUsers = {
     ["txmax_5"]              = true, -- 28/09 28/10
     ["sophia_euoxi"]         = true, -- 28/09 05/10 
     ["brunoeduardo87"]       = true, -- 28/09 01/10
+    ["CR7RY922"]             = true, -- 28/09 05/10
     ["TEMPLATE"]             = true, -- 28/09 00/10
-    ["TEMPLATE"]             = true, -- 28/09 00/10
-    ["TEMPLATE"]             = true, -- 28/09 00/10
+    ["TEMPLATE"]             = true, -- 28/09 05/10
 
 
     
