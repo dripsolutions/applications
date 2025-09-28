@@ -2,9 +2,11 @@
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["Gustavo_344788"]       = true,
-    ["Comunidade_6"]         = true,
     ["joaozinho_Respect"]    = true,
-    ["indioff_3"]            = true,
+    ["KcsLaQLbOwB"]          = true,
+    ["PALADINOSrk"]          = true,
+    ["slk_soumacarioca"]     = true,
+    
     
     ----------///// TEMPORARIOS /////-------------
     ["Yuk1_0fc"]             = true, -- 28/09 05/10
