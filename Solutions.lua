@@ -82,7 +82,7 @@ allowedUsers = {
     ["luisreal3"]            = true, -- 27/09 04/10
     ["ano202057"]            = true, -- 27/09 30/09
     ["vlhhf2iurgc9bfbzgadu"] = true, -- 27/09 30/09
-    ["Springtrap_foxy57"]    = true, -- 27/09 27/10
+    ["springtrap_foxy57"]    = true, -- 27/09 27/10
 
 
 
