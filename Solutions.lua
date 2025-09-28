@@ -84,11 +84,6 @@ allowedUsers = {
     ["VLHHF2IURGC9BFBZGADU"] = true, -- 27/09 30/09
     ["Springtrap_foxy57"]    = true, -- 27/09 27/10
 
-Nick: 
-Painel: 1 mês 
-
-@Liberar
-
 
 
 
