@@ -80,6 +80,7 @@ allowedUsers = {
     ["simouhmd73"]           = true, -- 28/09 05/10
     ["ripimda25"]            = true, -- 28/09 01/10
     ["muleke_solitario"]     = true, -- 28/09 30/02
+    ["hghbdksmoq45439"]      = true, -- 28/09 28/11
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
