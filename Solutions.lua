@@ -80,17 +80,6 @@ allowedUsers = {
     ["Lipe1yzx"]             = true, -- 28/09 28/11
     ["EA_BRUH07B"]           = true, -- 28/09 1/10
 
-   ----------///// finalidades /////------------
-    ["gxprsiafifaiksfdkfkz"] = true, -- 26/09 29/09
-    ["ouCxQQgrICf"]          = true, -- 25/09 29/09
-    ["Hnybmnbamo"]           = true, -- 26/09 29/09
-    ["bintangrafasya5"]      = true, -- 26/09 29/09
-    ["kairontele2"]          = true, -- 26/09 29/09
-    ["Kinglaighton24"]       = true, -- 26/09 29/09
-    ["pyhpooggocoy"]         = true, -- 26/09 29/09
-    ["conta_secundaria9914"] = true, -- 26/09 29/09
-    ["slk_Breno10"]          = true, -- 26/09 29/09
-    ["baianim940"]           = true, -- 26/09 29/09
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
