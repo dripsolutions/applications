@@ -76,7 +76,8 @@ allowedUsers = {
     ["diablogames109"]       = true, -- 28/09 30/11
     ["Rip_tik1k"]            = true, -- 28/09 4/10
     ["vendasbraint"]         = true, -- 28/09 28/11
-    ["AntonyRamsdorf"]       = true, -- 28/09 28/11
+    ["AntonyRamsdorf"]       = true, -- 28/09 28/10
+    ["Lipe1yzx"].            = true, -- 28/09 28/11
 
    ----------///// finalidades /////------------
     ["gxprsiafifaiksfdkfkz"] = true, -- 26/09 29/09
