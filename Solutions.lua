@@ -43,20 +43,10 @@ allowedUsers = {
     ["anselmo_Lives"]        = true, -- 24/09 15/10
     ["TUBERS93good1"]        = true, -- 25/09 01/10
     ["[J00FYW00L"]           = true, -- 25/09 07/10                                                   
-    ["ouCxQQgrICf"]          = true, -- 25/09 29/09
-    ["Hnybmnbamo"]           = true, -- 26/09 29/09
-    ["bintangrafasya5"]      = true, -- 26/09 29/09
-    ["kairontele2"]          = true, -- 26/09 29/09
-    ["Kinglaighton24"]       = true, -- 26/09 29/09
-    ["pyhpooggocoy"]         = true, -- 26/09 29/09
-    ["conta_secundaria9914"] = true, -- 26/09 29/09
     ["gato_assasino"]        = true, -- 26/09 26/10
-    ["gxprsiafifaiksfdkfkz"] = true, -- 26/09 29/09
     ["moumoud"]              = true, -- 26/09 07/10
     ["OToddyZx"]             = true, -- 26/09 03/10
     ["peixebometop2"]        = true, -- 26/09 26/11
-    ["slk_Breno10"]          = true, -- 26/09 29/09
-    ["baianim940"]           = true, -- 26/09 29/09
     ["oToddyZx"]             = true, -- 26/09 03/10
     ["xgab1marce"]           = true, -- 26/09 26/10
     ["PainFantasmax"]        = true, -- 27/09 27/12
@@ -83,9 +73,20 @@ allowedUsers = {
     ["muleke_solitario"]     = true, -- 28/09 30/02
     ["hghbdksmoq45439"]      = true, -- 28/09 28/11
     ["Miguel9827124"]        = true, -- 28/09 2/11
-    ["diablogames109"]      = true, -- 28/09 30/11
-    ["Rip_tik1k"]             = true, -- 29/09 4/10
-
+    ["diablogames109"]       = true, -- 28/09 30/11
+    ["Rip_tik1k"]            = true, -- 28/09 4/10
+   ----------///// finalidades /////------------
+    ["gxprsiafifaiksfdkfkz"] = true, -- 26/09 29/09
+    ["ouCxQQgrICf"]          = true, -- 25/09 29/09
+    ["Hnybmnbamo"]           = true, -- 26/09 29/09
+    ["bintangrafasya5"]      = true, -- 26/09 29/09
+    ["kairontele2"]          = true, -- 26/09 29/09
+    ["Kinglaighton24"]       = true, -- 26/09 29/09
+    ["pyhpooggocoy"]         = true, -- 26/09 29/09
+    ["conta_secundaria9914"] = true, -- 26/09 29/09
+    ["slk_Breno10"]          = true, -- 26/09 29/09
+    ["baianim940"]           = true, -- 26/09 29/09
+    
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
