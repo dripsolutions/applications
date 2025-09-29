@@ -86,6 +86,7 @@ allowedUsers = {
     ["Tupur827431"]          = true, -- 29/09 29/10
     ["alt_domt20"]           = true, -- 29/09 29/01
     ["serveston"]            = true, -- 29/09 04/10
+    ["POZE_RJ8"]             = true, -- 29/09 01/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
