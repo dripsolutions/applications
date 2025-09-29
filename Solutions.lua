@@ -80,6 +80,7 @@ allowedUsers = {
     ["Lipe1yxz"]             = true, -- 28/09 28/11
     ["EA_BRUH07B"]           = true, -- 28/09 1/10
     ["silvax0p"]             = true, -- 28/09 1/10
+    ["MXaomXD1"]             = true, -- 28/09 1/10
 
 
    ----------///// PERMANENTE ACESS /////------------
