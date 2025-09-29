@@ -80,10 +80,10 @@ allowedUsers = {
     ["vendasbraint"]         = true, -- 28/09 28/11
     ["AntonyRamsdorf"]       = true, -- 28/09 28/10
     ["Lipe1yxz"]             = true, -- 28/09 28/11
-    ["EA_BRUH07B"]           = true, -- 28/09 1/10
-    ["silvax0p"]             = true, -- 28/09 1/10
-    ["MXaomXD1"]             = true, -- 28/09 1/10
-
+    ["EA_BRUH07B"]           = true, -- 28/09 01/10
+    ["silvax0p"]             = true, -- 28/09 01/10
+    ["MXaomXD1"]             = true, -- 28/09 01/10
+    ["Tupur827431"]          = true, -- 29/09 29/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
