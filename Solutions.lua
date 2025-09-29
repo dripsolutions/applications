@@ -74,9 +74,9 @@ allowedUsers = {
     ["ripimda25"]            = true, -- 28/09 01/10
     ["muleke_solitario"]     = true, -- 28/09 30/02
     ["hghbdksmoq45439"]      = true, -- 28/09 28/11
-    ["Miguel9827124"]        = true, -- 28/09 2/11
+    ["Miguel9827124"]        = true, -- 28/09 02/11
     ["diablogames109"]       = true, -- 28/09 30/11
-    ["Rip_tik1k"]            = true, -- 28/09 4/10
+    ["Rip_tik1k"]            = true, -- 28/09 o4/10
     ["vendasbraint"]         = true, -- 28/09 28/11
     ["AntonyRamsdorf"]       = true, -- 28/09 28/10
     ["Lipe1yxz"]             = true, -- 28/09 28/11
@@ -84,6 +84,7 @@ allowedUsers = {
     ["silvax0p"]             = true, -- 28/09 01/10
     ["MXaomXD1"]             = true, -- 28/09 01/10
     ["Tupur827431"]          = true, -- 29/09 29/10
+    ["alt_domt20"]           = true, -- 29/09 29/01
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
