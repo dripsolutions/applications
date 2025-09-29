@@ -75,6 +75,8 @@ allowedUsers = {
     ["Miguel9827124"]        = true, -- 28/09 2/11
     ["diablogames109"]       = true, -- 28/09 30/11
     ["Rip_tik1k"]            = true, -- 28/09 4/10
+    ["vendasbraint"]         = true, -- 28/09 28/11
+
    ----------///// finalidades /////------------
     ["gxprsiafifaiksfdkfkz"] = true, -- 26/09 29/09
     ["ouCxQQgrICf"]          = true, -- 25/09 29/09
@@ -86,7 +88,6 @@ allowedUsers = {
     ["conta_secundaria9914"] = true, -- 26/09 29/09
     ["slk_Breno10"]          = true, -- 26/09 29/09
     ["baianim940"]           = true, -- 26/09 29/09
-    
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
