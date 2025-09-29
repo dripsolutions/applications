@@ -91,6 +91,7 @@ allowedUsers = {
     ["Miguel4600FF5"]        = true, -- 29/09 06/10
     ["speedxcript"]          = true, -- 29/09 02/10
     ["Kaysko_sokyonb"]       = true, -- 29/09 29/02
+    ["rzinxfxp"]             = true, -- 29/09 10/03
 
 
    ----------///// PERMANENTE ACESS /////------------
