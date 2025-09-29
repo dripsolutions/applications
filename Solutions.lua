@@ -78,6 +78,7 @@ allowedUsers = {
     ["vendasbraint"]         = true, -- 28/09 28/11
     ["AntonyRamsdorf"]       = true, -- 28/09 28/10
     ["Lipe1yzx"]             = true, -- 28/09 28/11
+    ["EA_BRUH07B"]           = true, -- 28/09 1/10
 
    ----------///// finalidades /////------------
     ["gxprsiafifaiksfdkfkz"] = true, -- 26/09 29/09
