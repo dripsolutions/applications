@@ -89,7 +89,8 @@ allowedUsers = {
     ["POZE_RJ8"]             = true, -- 29/09 01/10
     ["BKZINHONEVIDAH"]       = true, -- 29/09 01/10
     ["Miguel4600FF5"]        = true, -- 29/09 06/10
-    ["speedxcript"]          = true, -- 29/09 2/10
+    ["speedxcript"]          = true, -- 29/09 02/10
+    ["Kaysko_sokyonb"]       = true, -- 29/09 29/02
 
 
    ----------///// PERMANENTE ACESS /////------------
