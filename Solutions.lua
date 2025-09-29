@@ -9,6 +9,7 @@ allowedUsers = {
     
     
     ----------///// TEMPORARIOS /////-------------
+    ["Rodriguinho1557"]      = true, -- 29/09 02/10
     ["DANONE_OFC2"]          = true, -- 28/09 01/10
     ["kaoke_7"]              = true, -- 28/09 01/10
     ["Yuk1_0fc"]             = true, -- 28/09 05/10
