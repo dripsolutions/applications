@@ -77,7 +77,7 @@ allowedUsers = {
     ["Rip_tik1k"]            = true, -- 28/09 4/10
     ["vendasbraint"]         = true, -- 28/09 28/11
     ["AntonyRamsdorf"]       = true, -- 28/09 28/10
-    ["Lipe1yzx"]             = true, -- 28/09 28/11
+    ["Lipe1yxz"]             = true, -- 28/09 28/11
     ["EA_BRUH07B"]           = true, -- 28/09 1/10
 
 
