@@ -145,8 +145,8 @@ allowedUsers = {
     ["garfishbjwc_88"]       = true,
     ["nubini728"]            = true,
     ["slk_soumacarioca"]     = true,
-
-
+    ["RUANRODRIGO121121"]    = true,
+            
 }
 
 return allowedUsers
