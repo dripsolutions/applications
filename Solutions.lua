@@ -92,6 +92,7 @@ allowedUsers = {
     ["J00FYW00L"]            = true, -- 29/09 01/10
     ["Ezman_638"]            = true, -- 30/09 03/10
     ["JumpstyleMr"]          = true, -- 30/09 03/10
+    ["belindone2015"]        = true, -- 30/09 03/10
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
     ["MEMENOMI52"]           = true,  
