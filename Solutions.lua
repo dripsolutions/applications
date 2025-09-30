@@ -9,6 +9,7 @@ allowedUsers = {
     
     
     ----------///// TEMPORARIOS /////-------------
+    ["budhhaleopardo"]       = true, -- 30/09 06/10
     ["jonatha23484"]         = true, -- 29/09 02/10
     ["Rodriguinho1557"]      = true, -- 29/09 02/10
     ["DANONE_OFC2"]          = true, -- 28/09 01/10
