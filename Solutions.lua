@@ -124,6 +124,7 @@ allowedUsers = {
     ["REI_GAMER41808"]       = true,
     ["CaoHieu_32953"]        = true,
     ["brenardao9"]           = true,
+    ["CheaterUnknowlocal"]   = true, 
     ["987STEPSIS987"]        = true,
     ["diuduivh"]             = true, 
     ["Alex1_520468"]         = true,
