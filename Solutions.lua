@@ -92,6 +92,7 @@ allowedUsers = {
     ["speedxcript"]          = true, -- 29/09 02/10
     ["Kaysko_sokyonb"]       = true, -- 29/09 29/02
     ["rzinxfxp"]             = true, -- 29/09 10/03
+    ["1x4_Queijo"]           = true, -- 29/09 02 
 
 
    ----------///// PERMANENTE ACESS /////------------
