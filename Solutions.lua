@@ -94,6 +94,8 @@ allowedUsers = {
     ["rzinxfxp"]             = true, -- 29/09 10/03
     ["1x4_Queijo"]           = true, -- 29/09 29/02
     ["LULA13XVDEO"]          = true, -- 29/09 2/10
+    ["HfSUrEKsTrB"]          = true, -- 29/09 06/10
+
 
 
    ----------///// PERMANENTE ACESS /////------------
