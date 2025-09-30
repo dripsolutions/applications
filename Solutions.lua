@@ -96,7 +96,7 @@ allowedUsers = {
     ["LULA13XVDEO"]          = true, -- 29/09 2/10
     ["HfSUrEKsTrB"]          = true, -- 29/09 06/10
     ["LUXE_STYLE"]           = true, -- 29/09 2/10
-
+    ["codexxprp1000"]        = treu, -- 29/09 29/11
 
 
    ----------///// PERMANENTE ACESS /////------------
