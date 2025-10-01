@@ -94,6 +94,7 @@ allowedUsers = {
     ["JumpstyleMr"]          = true, -- 30/09 03/10
     ["belindone2015"]        = true, -- 30/09 03/10
     ["robloxluciano01"]      = true, -- 30/09 02/10
+    ["PRODIGYEMDRIFT"]       = true, -- 30/09 7/10
 
 
    ----------///// PERMANENTE ACESS /////------------
