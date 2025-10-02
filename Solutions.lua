@@ -135,6 +135,8 @@ allowedUsers = {
     ["nubini728"]            = true,
     ["slk_soumacarioca"]     = true,
     ["BIELgemes10s"]         = true,
+    ["Lua099349"]            = true,
+    ["Turbers_productions"]  = true,
             
 }
 
