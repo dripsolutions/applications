@@ -6,6 +6,7 @@ allowedUsers = {
     ["KcsLaQLbOwB"]          = true,
     ["PALADINOSrk"]          = true,
     ["slk_soumacarioca"]     = true,
+    ["Stealabrainort_13"]    = true,
     
     
     ----------///// TEMPORARIOS /////-------------
