@@ -83,6 +83,7 @@ allowedUsers = {
     ["PRODIGYEMDRIFT"]       = true, -- 30/09 7/10
     ["Rafa123wx8"]           = true, -- 01/10 04/10
     ["12muri345"]            = true, -- 01/10 8/10
+    ["ERROR_Death59"]        = true, -- 01/10 8/10
 
 
    ----------///// PERMANENTE ACESS /////------------
