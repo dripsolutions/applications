@@ -84,7 +84,7 @@ allowedUsers = {
     ["Rafa123wx8"]           = true, -- 01/10 04/10
     ["12muri345"]            = true, -- 01/10 8/10
     ["ERROR_Death59"]        = true, -- 01/10 8/10
-
+    ["dhfdksed"]             = true, -- 02/10 05/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
