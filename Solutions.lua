@@ -7,6 +7,7 @@ allowedUsers = {
     ["PALADINOSrk"]          = true,
     ["slk_soumacarioca"]     = true,
     ["Stealabrainort_13"]    = true,
+    ["xsad_9999"]            = true,
     
     
     ----------///// TEMPORARIOS /////-------------
@@ -15,8 +16,7 @@ allowedUsers = {
     ["CaioFxp71"]            = true, -- 27/09 30/10
     ["01Xxx09"]              = true, -- 27/09 27/10
     ["seupaiemeu778"]        = true, -- 27/09 04/10
-    ["Goether304"]           = true, -- 23/09 23/11
-    ["firecrowblackice"]     = true, -- 13/09 03/10 
+    ["Goether304"]           = true, -- 27/09 01/11
     ["ERIK90909082"]         = true, -- 02/09 27/12
     ["Gabrielmilitar_6"]     = true, -- 27/08 27/12
     ["Riggs_scott"]          = true, -- 26/08 16/10
@@ -70,9 +70,6 @@ allowedUsers = {
     ["HfSUrEKsTrB"]          = true, -- 29/09 06/10
     ["LUXE_STYLE"]           = true, -- 29/09 02/10
     ["codexxprp1000"]        = true, -- 29/09 29/10
-    ["Ezman_638"]            = true, -- 30/09 03/10
-    ["JumpstyleMr"]          = true, -- 30/09 03/10
-    ["belindone2015"]        = true, -- 30/09 03/10
     ["PRODIGYEMDRIFT"]       = true, -- 30/09 7/10
     ["Rafa123wx8"]           = true, -- 01/10 04/10
     ["12muri345"]            = true, -- 01/10 8/10
