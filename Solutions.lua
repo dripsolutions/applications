@@ -2,7 +2,6 @@
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["Gustavo_344788"]       = true,
-    ["joaozinho_Respect"]    = true,
     ["KcsLaQLbOwB"]          = true,
     ["PALADINOSrk"]          = true,
     ["slk_soumacarioca"]     = true,
