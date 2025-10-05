@@ -77,6 +77,7 @@ allowedUsers = {
     ["davisinhodoroblok"]    = true, -- 04/10 11/10
     ["Soleil_noir0"]         = true, -- 04/10 07/10
     ["hacudinho2"]           = true, -- 04/10 02/10
+    ["tubers_93C00lkid3"]    = true, -- 04/10 10/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
