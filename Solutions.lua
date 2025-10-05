@@ -1,7 +1,6 @@
     ----------///// SISTEMA-ADMIN /////------------ 
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
-    ["Gustavo_344788"]       = true,
     ["KcsLaQLbOwB"]          = true,
     ["PALADINOSrk"]          = true,
     ["slk_soumacarioca"]     = true,
