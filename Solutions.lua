@@ -59,16 +59,16 @@ allowedUsers = {
     ["1x4_Queijo"]           = true, -- 29/09 29/02
     ["HfSUrEKsTrB"]          = true, -- 29/09 06/10
     ["codexxprp1000"]        = true, -- 29/09 29/10
-    ["PRODIGYEMDRIFT"]       = true, -- 30/09 07/10
-    ["12muri345"]            = true, -- 01/10 08/10
-    ["ERROR_Death59"]        = true, -- 01/10 08/10
-    ["dhfdksed"]             = true, -- 02/10 05/10
-    ["DouglasWendy21"]       = true, -- 02/10 09/10     
-    ["edu_gachalifeofc"]     = true, -- 03/10 03/12
+    ["PRODIGYEMDRIFT"]       = true, -- 30/09 7/10
+    ["12muri345"]            = true, -- 01/10 8/10
+    ["ERROR_Death59"]        = true, -- 01/10 8/10
+    ["dhfdksed"]             = true, -- 02/10 5/10
+    ["DouglasWendy21"]       = true, -- 02/10 9/10     
+    ["edu_gachalifeofc"]     = true, -- 03/10 3/12
     ["davisinhodoroblok"]    = true, -- 04/10 11/10
-    ["Soleil_noir0"]         = true, -- 04/10 07/10
+    ["Soleil_noir0"]         = true, -- 04/10 7/10
     ["tubers_93C00lkid3"]    = true, -- 04/10 10/10
-    ["clzinnzzk7"]           = true, -- 04/10 07/10
+    ["clzinnzzk7"]           = true, -- 04/10 7/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
