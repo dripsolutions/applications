@@ -7,6 +7,7 @@ allowedUsers = {
     ["Stealabrainort_13"]    = true,
     ["xsad_9999"]            = true,
     ["LucasCruzSilv"]        = true,
+    ["mghswi"]               = true,
     
     
     ----------///// TEMPORARIOS /////-------------
