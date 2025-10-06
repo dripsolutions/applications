@@ -2,12 +2,7 @@
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["KcsLaQLbOwB"]          = true,
-    ["PALADINOSrk"]          = true,
-    ["slk_soumacarioca"]     = true,
     ["xsad_9999"]            = true,
-    ["LucasCruzSilv"]        = true,
-    ["mghswi"]               = true,
-    ["Kay_g4m3"]             = true,
     
     
     ----------///// TEMPORARIOS /////-------------
