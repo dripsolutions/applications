@@ -3,6 +3,7 @@ allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["KcsLaQLbOwB"]          = true,
     ["xsad_9999"]            = true,
+    ["cantanguandi2"]        = true,
     
     
     ----------///// TEMPORARIOS /////-------------
