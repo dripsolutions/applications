@@ -63,6 +63,7 @@ allowedUsers = {
     ["Soleil_noir0"]         = true, -- 04/10 7/10
     ["tubers_93C00lkid3"]    = true, -- 04/10 10/10
     ["clzinnzzk7"]           = true, -- 04/10 7/10
+    ["GuhhsouzzaPP"]         = true, -- 04/10 15/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
