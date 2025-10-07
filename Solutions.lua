@@ -102,6 +102,9 @@ allowedUsers = {
     ["BIELgemes10s"]         = true,
     ["Lua099349"]            = true,
     ["Turbers_productions"]  = true,
+
+    ------STAFF
+        ["vendasbraint"]  = true,
             
 }
 
