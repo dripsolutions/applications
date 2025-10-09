@@ -76,7 +76,7 @@ allowedUsers = {
     ["sparta9842"]           = true,
     ["MENOR_RSA"]            = true,
     ["dvdfy4wfiyf"]          = true,
-
+    ["Luizmiguel0156"]       = true,
     ------STAFF
         ["vendasbraint"]  = true,
             
