@@ -20,7 +20,6 @@ allowedUsers = {
     ["almahola9"]            = true, -- 30/08 30/12
     ["R190oo"]               = true, -- 15/09 15/11
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
-    ["bababoiiui"]           = true, -- 22/09 9/10 
     ["Tz_j4ck"]              = true, -- 22/09 22/10 
     ["EDOFLEX5"]             = true, -- 22/09 22/10 
     ["HA_SHEIK100K"]         = true, -- 22/09 22/11 
