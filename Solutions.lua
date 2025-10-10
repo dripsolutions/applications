@@ -1,10 +1,10 @@
     ----------///// SISTEMA-ADMIN /////------------ 
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
-    ["KcsLaQLbOwB"]          = true,
-    ["xsad_9999"]            = true,
-    ["cantanguandi2"]        = true,
-    ["matmat2345"]           = true,
+    ["KcsLaQLbOwB"]          = true, -- guifp01
+    ["xsad_9999"]            = true, -- calebeftk
+    ["cantanguandi2"]        = true, -- janderson027949
+    ["matmat2345"]           = true, -- igurohck
     
     
     ----------///// TEMPORARIOS /////-------------
