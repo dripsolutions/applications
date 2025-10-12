@@ -3,7 +3,6 @@ allowedUsers = {
     ----------///// TIK-TOK /////------------           
     ["KcsLaQLbOwB"]          = true, -- guifp01
     ["xsad_9999"]            = true, -- calebeftk
-    ["cantanguandi2"]        = true, -- janderson027949
     ["matmat2345"]           = true, -- igurohck
     
     
@@ -72,8 +71,10 @@ allowedUsers = {
     ["MENOR_RSA"]            = true,
     ["dvdfy4wfiyf"]          = true,
     ["Luizmiguel0156"]       = true,
+    ["cantanguandi2"]        = true,
+    ["slk_soumacarioca"]     = true,
     ------STAFF
-        ["vendasbraint"]  = true,
+    ["vendasbraint"]         = true,
             
 }
 
