@@ -11,7 +11,6 @@ allowedUsers = {
     ["Goether304"]           = true, -- 27/09 01/11
     ["ERIK90909082"]         = true, -- 02/09 27/12
     ["Gabrielmilitar_6"]     = true, -- 27/08 27/12
-    ["Riggs_scott"]          = true, -- 26/08 16/10
     ["biel_mrqs"]            = true, -- 06/09 06/11
     ["berluiz2001"]          = true, -- 07/09 07/11
     ["MasterReaper111"]      = true, -- 08/09 08/11
@@ -21,8 +20,7 @@ allowedUsers = {
     ["DFGHGHGHH4"]           = true, -- 21/09 21/10
     ["Tz_j4ck"]              = true, -- 22/09 22/10 
     ["EDOFLEX5"]             = true, -- 22/09 22/10 
-    ["HA_SHEIK100K"]         = true, -- 22/09 22/11 
-    ["anselmo_Lives"]        = true, -- 24/09 15/10                                                   
+    ["HA_SHEIK100K"]         = true, -- 22/09 22/11                                               
     ["gato_assasino"]        = true, -- 26/09 26/10
     ["peixebometop2"]        = true, -- 26/09 26/11
     ["xgab1marce"]           = true, -- 26/09 26/10
@@ -42,7 +40,6 @@ allowedUsers = {
     ["1x4_Queijo"]           = true, -- 29/09 29/02
     ["codexxprp1000"]        = true, -- 29/09 29/10
     ["edu_gachalifeofc"]     = true, -- 03/10 03/12
-    ["GuhhsouzzaPP"]         = true, -- 04/10 15/10
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
