@@ -1,9 +1,7 @@
     ----------///// SISTEMA-ADMIN /////------------ 
 allowedUsers = {
     ----------///// TIK-TOK /////------------           
-    ["KcsLaQLbOwB"]          = true, -- guifp01
-    ["xsad_9999"]            = true, -- calebeftk
-    ["matmat2345"]           = true, -- igurohck
+    [
     
     
     ----------///// TEMPORARIOS /////-------------
