@@ -67,7 +67,6 @@ allowedUsers = {
     ["dvdfy4wfiyf"]          = true,
     ["Luizmiguel0156"]       = true,
     ["cantanguandi2"]        = true,
-    ["slk_soumacarioca"]     = true,
     ------STAFF
     ["vendasbraint"]         = true,
             
